@@ -1,0 +1,618 @@
+[
+  {
+    "herb": "Terminalia chebula",
+    "part": "bark",
+    "imphy_id": "IMPHY001187",
+    "phytochemical": "[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] (4aS,6aR,6aS,6bR,8R,8aR,9S,10R,11R,12aR,14bS)-8,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylate",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "bark",
+    "imphy_id": "IMPHY003139",
+    "phytochemical": "Terchebin",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "bark",
+    "imphy_id": "IMPHY004631",
+    "phytochemical": "Stearic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "bark",
+    "imphy_id": "IMPHY007327",
+    "phytochemical": "Palmitic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "bark",
+    "imphy_id": "IMPHY011394",
+    "phytochemical": "Arachidic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "bark",
+    "imphy_id": "IMPHY011627",
+    "phytochemical": "Arjunolic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "bark",
+    "imphy_id": "IMPHY011797",
+    "phytochemical": "Oleic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "bark",
+    "imphy_id": "IMPHY012021",
+    "phytochemical": "Gallic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "bark",
+    "imphy_id": "IMPHY014990",
+    "phytochemical": "Linoleic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY000601",
+    "phytochemical": "Triacontanoic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY000687",
+    "phytochemical": "Syringic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY002419",
+    "phytochemical": "Ellagitannin",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY003139",
+    "phytochemical": "Terchebin",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY004631",
+    "phytochemical": "Stearic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY004799",
+    "phytochemical": "Chebulagic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY005412",
+    "phytochemical": "(12R,15R,32S,33R)-4,5,6,14,20,21,22,25,26,27,38,39,40,43,44,55-hexadecahydroxy-2,10,13,16,31,34,46,53-octaoxaundecacyclo[46.7.1.03,8.012,33.015,32.018,23.024,29.036,41.042,51.045,50.049,54]hexapentaconta-1(55),3,5,7,18,20,22,24,26,28,36,38,40,42,44,48(56),49(54),50-octadecaene-9,17,30,35,47,52-hexone",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY005537",
+    "phytochemical": "Ellagic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY006362",
+    "phytochemical": "Ascorbic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY006904",
+    "phytochemical": "Punicalagin",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY006945",
+    "phytochemical": "Shikimic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY007084",
+    "phytochemical": "Vanillic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY007192",
+    "phytochemical": "Anthraquinone",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY007212",
+    "phytochemical": "Docosanoic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY007327",
+    "phytochemical": "Palmitic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY009606",
+    "phytochemical": "Ethyl gallate",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY010827",
+    "phytochemical": "Chebulinic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY010998",
+    "phytochemical": "Chebulic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY011394",
+    "phytochemical": "Arachidic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY011627",
+    "phytochemical": "Arjunolic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY011741",
+    "phytochemical": "Tannic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY011797",
+    "phytochemical": "Oleic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY011802",
+    "phytochemical": "Ferulic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY011933",
+    "phytochemical": "Caffeic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY011970",
+    "phytochemical": "Maslinic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY011974",
+    "phytochemical": "4-Hydroxycinnamic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY012021",
+    "phytochemical": "Gallic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY012650",
+    "phytochemical": "Arjungenin",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY014353",
+    "phytochemical": "terflavin A",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY014693",
+    "phytochemical": "Sennoside A",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY014836",
+    "phytochemical": "beta-Sitosterol",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY014838",
+    "phytochemical": "Daucosterol",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "fruit",
+    "imphy_id": "IMPHY014990",
+    "phytochemical": "Linoleic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "leaf",
+    "imphy_id": "IMPHY002055",
+    "phytochemical": "Celastrol",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "leaf",
+    "imphy_id": "IMPHY006612",
+    "phytochemical": "Corosolic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "leaf",
+    "imphy_id": "IMPHY006864",
+    "phytochemical": "Punicalin",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "leaf",
+    "imphy_id": "IMPHY006904",
+    "phytochemical": "Punicalagin",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "leaf",
+    "imphy_id": "IMPHY010880",
+    "phytochemical": "Terflavin C",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "leaf",
+    "imphy_id": "IMPHY010881",
+    "phytochemical": "Terflavin D",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "leaf",
+    "imphy_id": "IMPHY010998",
+    "phytochemical": "Chebulic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "leaf",
+    "imphy_id": "IMPHY011970",
+    "phytochemical": "Maslinic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "leaf",
+    "imphy_id": "IMPHY013245",
+    "phytochemical": "Terflavin B",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "seed",
+    "imphy_id": "IMPHY000060",
+    "phytochemical": "Myristic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "seed",
+    "imphy_id": "IMPHY004631",
+    "phytochemical": "Stearic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "seed",
+    "imphy_id": "IMPHY006466",
+    "phytochemical": "Ricinoleic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "seed",
+    "imphy_id": "IMPHY007212",
+    "phytochemical": "Docosanoic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "seed",
+    "imphy_id": "IMPHY007327",
+    "phytochemical": "Palmitic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "seed",
+    "imphy_id": "IMPHY011394",
+    "phytochemical": "Arachidic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "seed",
+    "imphy_id": "IMPHY011666",
+    "phytochemical": "Palmitoleic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "seed",
+    "imphy_id": "IMPHY011797",
+    "phytochemical": "Oleic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "seed",
+    "imphy_id": "IMPHY014990",
+    "phytochemical": "Linoleic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "stem",
+    "imphy_id": "IMPHY011627",
+    "phytochemical": "Arjunolic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY000103",
+    "phytochemical": "Pyrogallol",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY000783",
+    "phytochemical": "1,3,6-tri-O-galloyl-beta-D-glucose",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY002259",
+    "phytochemical": "Bellericoside",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY002588",
+    "phytochemical": "Flavylium",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY003139",
+    "phytochemical": "Terchebin",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY003265",
+    "phytochemical": "Phloroglucinol",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY004631",
+    "phytochemical": "Stearic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY004799",
+    "phytochemical": "Chebulagic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY006362",
+    "phytochemical": "Ascorbic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY006658",
+    "phytochemical": "Pentagalloylglucose",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY007084",
+    "phytochemical": "Vanillic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY007192",
+    "phytochemical": "Anthraquinone",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY007212",
+    "phytochemical": "Docosanoic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY007327",
+    "phytochemical": "Palmitic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY010070",
+    "phytochemical": "beta-Glucogallin",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY010827",
+    "phytochemical": "Chebulinic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY011394",
+    "phytochemical": "Arachidic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY011627",
+    "phytochemical": "Arjunolic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY011741",
+    "phytochemical": "Tannic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY011797",
+    "phytochemical": "Oleic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY011802",
+    "phytochemical": "Ferulic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY011933",
+    "phytochemical": "Caffeic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY011974",
+    "phytochemical": "4-Hydroxycinnamic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY012021",
+    "phytochemical": "Gallic acid",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY012650",
+    "phytochemical": "Arjungenin",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY013222",
+    "phytochemical": "arjunglucoside I",
+    "query_used": "terminalia chebula"
+  },
+  {
+    "herb": "Terminalia chebula",
+    "part": "",
+    "imphy_id": "IMPHY014990",
+    "phytochemical": "Linoleic acid",
+    "query_used": "terminalia chebula"
+  }
+]

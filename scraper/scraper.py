@@ -6,7 +6,7 @@ from .browser import get_new_page
 URL = "https://cb.imsc.res.in/imppat/basicsearch/phytochemical"
 
 
-async def _extract_rows(page):
+async def _extract_rows(page, query: str):
     try:
         await page.wait_for_selector("table tbody tr", timeout=10000)
     except Exception:
@@ -22,10 +22,11 @@ async def _extract_rows(page):
         compound = (await cells.nth(3).inner_text()).strip()
         result.append(
             {
-                "plant": plant,
+                "herb": plant,
                 "part": part,
-                "identifier": identifier,
-                "compound": compound,
+                "imphy_id": identifier,
+                "phytochemical": compound,
+                "query_used": query,
             }
         )
     return result
@@ -54,7 +55,7 @@ async def scrape_single_query(page, query: str):
     
     await page.wait_for_timeout(1500)
     result = []
-    result.extend(await _extract_rows(page))
+    result.extend(await _extract_rows(page, query))
     while True:
         next_button = page.locator("a.paginate_button.next")
         if await next_button.count() == 0:
@@ -66,45 +67,39 @@ async def scrape_single_query(page, query: str):
         try:
             await button.click()
             await page.wait_for_timeout(2500)
-            page_results = await _extract_rows(page)
+            page_results = await _extract_rows(page, query)
             result.extend(page_results)
         except Exception:
             break
     return result
 
 
-def _merge_unique_records(records):
-    merged = {}
-    for record in records:
-        identifier = record.get("identifier", "")
-        if not identifier:
-            continue
-        if identifier not in merged:
-            merged[identifier] = record
-    return list(merged.values())
-
-
 async def scrape_herb(page, herb: Herb):
-    all_records = []
+    query_results = {}
+    
+    # Scrape main name
     main_records = await scrape_single_query(page, herb.main_name)
-    all_records.extend(main_records)
-    if len(main_records) > 100:
-        return _merge_unique_records(all_records)
-    if len(main_records) == 0 or len(main_records) < 20:
+    if main_records:
+        query_results[herb.main_name] = main_records
+    
+    # Scrape synonyms if main query returned few results or none
+    if len(main_records) < 20:
         for synonym in herb.synonyms:
             records = await scrape_single_query(page, synonym)
-            all_records.extend(records)
-    return _merge_unique_records(all_records)
+            if records:
+                query_results[synonym] = records
+    
+    return query_results
 
 
 async def _process_herb(browser, herb: Herb, semaphore):
     async with semaphore:
         page = await get_new_page(browser)
         try:
-            records = await scrape_herb(page, herb)
-            return herb.main_name, records
+            query_results = await scrape_herb(page, herb)
+            return query_results
         except Exception as error:
-            return herb.main_name, str(error)
+            return {herb.main_name: str(error)}
         finally:
             await page.close()
 
@@ -112,4 +107,10 @@ async def _process_herb(browser, herb: Herb, semaphore):
 async def scrape_all_herbs(browser, herbs: list[Herb]):
     semaphore = asyncio.Semaphore(3)
     tasks = [_process_herb(browser, herb, semaphore) for herb in herbs]
-    return await asyncio.gather(*tasks)
+    results = await asyncio.gather(*tasks)
+    
+    # Merge all query results into a single dict
+    all_query_results = {}
+    for result in results:
+        all_query_results.update(result)
+    return all_query_results
