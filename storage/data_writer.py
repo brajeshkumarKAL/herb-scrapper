@@ -44,8 +44,9 @@ def save_query_to_json(query_name: str, associations: list, output_dir: str = "d
     
     # Write JSON with proper formatting
     try:
+        indent = settings.json_indent if hasattr(settings, "json_indent") else 2
         with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(associations, f, indent=2, ensure_ascii=False)
+            json.dump(associations, f, indent=indent, ensure_ascii=False)
         return str(file_path)
     except Exception as e:
         raise IOError(f"Failed to write JSON file {file_path}: {e}")

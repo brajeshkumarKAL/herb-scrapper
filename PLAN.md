@@ -41,6 +41,36 @@ Store each query's scraped data in a separate JSON file with structured objects.
 3. Update storage module to write individual JSON files
 4. Add query normalization for filenames
 
+## Matching Website Column Names and Extracting References
+This project currently stores scraped rows with field names that differ from the website table headings. To fix this:
+
+1. Identify exact website column headings from the target page.
+   - `Indian medicinal plant`
+   - `Plant part`
+   - `IMPPAT Phytochemical identifier`
+   - `Phytochemical name`
+   - `References`
+
+2. Map scraper output fields to the website headings.
+   - Rename current output keys so the JSON uses the exact website names.
+   - Keep values unchanged, only change field names in stored output.
+
+3. Extract the References column from the scraped page.
+   - Update HTML parsing in `scraper/scraper.py` to locate the References cell in each table row.
+   - Preserve text content or links as appropriate, storing it in the new field.
+
+4. Extend the data model and storage schema.
+   - Add a `References` property to each association object.
+   - Ensure JSON output includes this field for every entry.
+
+5. Validate against sample output.
+   - Use a representative page or query to verify output keys exactly match website headings.
+   - Confirm `References` appears in the JSON data and contains the expected content.
+
+6. Update documentation and tests.
+   - Document the new exact output field names in `README.md` or `PLAN.md`.
+   - Add unit tests for column name mapping and References extraction.
+
 ## Detailed Implementation Plan for Plan 1: JSON File per Query
 
 ### Phase 1: Data Structure Refactoring

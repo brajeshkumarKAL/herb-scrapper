@@ -68,10 +68,11 @@ Each query generates a separate JSON file in `data/output/json/`:
 ```json
 [
   {
-    "herb": "Terminalia chebula",
-    "part": "bark",
-    "imphy_id": "IMPHY001187",
-    "phytochemical": "Compound Name",
+    "Indian medicinal plant": "Terminalia chebula",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY001187",
+    "Phytochemical name": "Compound Name",
+    "References": "Source details",
     "query_used": "terminalia chebula"
   }
 ]

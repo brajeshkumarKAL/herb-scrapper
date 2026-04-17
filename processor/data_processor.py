@@ -15,20 +15,29 @@ def process_data(scraped_data):
         for assoc in associations:
             if not isinstance(assoc, dict):
                 continue
-            # Ensure required fields are present
-            required_fields = ["herb", "part", "imphy_id", "phytochemical", "query_used"]
-            if not all(field in assoc for field in required_fields):
+
+            # Map old field names to the new website-matching keys for compatibility
+            herb_value = assoc.get("Indian medicinal plant") or assoc.get("herb") or ""
+            part_value = assoc.get("Plant part") or assoc.get("part") or ""
+            identifier_value = assoc.get("IMPPAT Phytochemical identifier") or assoc.get("imphy_id") or ""
+            compound_value = assoc.get("Phytochemical name") or assoc.get("phytochemical") or ""
+            references_value = assoc.get("References") or assoc.get("references") or ""
+            query_used_value = assoc.get("query_used") or query
+
+            required_fields = [herb_value, part_value, identifier_value, compound_value]
+            if not all(isinstance(field, str) and field.strip() for field in required_fields):
                 continue
-            # Clean the data
+
             cleaned_assoc = {
-                "herb": assoc["herb"].strip(),
-                "part": assoc["part"].strip(),
-                "imphy_id": assoc["imphy_id"].strip(),
-                "phytochemical": assoc["phytochemical"].strip(),
-                "query_used": assoc["query_used"].strip(),
+                "Indian medicinal plant": herb_value.strip(),
+                "Plant part": part_value.strip(),
+                "IMPPAT Phytochemical identifier": identifier_value.strip(),
+                "Phytochemical name": compound_value.strip(),
+                "References": references_value.strip(),
+                "query_used": query_used_value.strip(),
             }
-            # Only add if imphy_id is not empty
-            if cleaned_assoc["imphy_id"]:
+
+            if cleaned_assoc["IMPPAT Phytochemical identifier"]:
                 valid_associations.append(cleaned_assoc)
         
         if valid_associations:

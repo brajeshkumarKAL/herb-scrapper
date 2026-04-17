@@ -31,10 +31,14 @@ async def main():
                 # Convert processed_data back to old format for CSV compatibility
                 csv_data = []
                 for query, associations in processed_data.items():
-                    associations_str = " || ".join(
-                        " | ".join([assoc["herb"], assoc["part"], assoc["imphy_id"], assoc["phytochemical"]])
-                        for assoc in associations
-                    )
+                    association_strings = []
+                    for assoc in associations:
+                        herb_name = assoc.get("Indian medicinal plant") or assoc.get("herb") or ""
+                        plant_part = assoc.get("Plant part") or assoc.get("part") or ""
+                        imphy_id = assoc.get("IMPPAT Phytochemical identifier") or assoc.get("imphy_id") or ""
+                        phytochemical_name = assoc.get("Phytochemical name") or assoc.get("phytochemical") or ""
+                        association_strings.append(" | ".join([herb_name, plant_part, imphy_id, phytochemical_name]))
+                    associations_str = " || ".join(association_strings)
                     csv_data.append({"Herb": query, "Phytochemical Associations": associations_str})
                 output_path = save_to_csv(csv_data)
                 print(f"Output saved to: {output_path}")

@@ -20,12 +20,17 @@ async def _extract_rows(page, query: str):
         part = (await cells.nth(1).inner_text()).strip()
         identifier = (await cells.nth(2).inner_text()).strip()
         compound = (await cells.nth(3).inner_text()).strip()
+        references = ""
+        if await cells.count() > 4:
+            references = (await cells.nth(4).inner_text()).strip()
+
         result.append(
             {
-                "herb": plant,
-                "part": part,
-                "imphy_id": identifier,
-                "phytochemical": compound,
+                "Indian medicinal plant": plant,
+                "Plant part": part,
+                "IMPPAT Phytochemical identifier": identifier,
+                "Phytochemical name": compound,
+                "References": references,
                 "query_used": query,
             }
         )
