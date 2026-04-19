@@ -1,0 +1,3378 @@
+[
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011965",
+    "Phytochemical name": "(+)-beta-Phellandrene",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY000060",
+    "Phytochemical name": "Myristic acid",
+    "References": "ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY000575",
+    "Phytochemical name": "Angelicin",
+    "References": "ISBN:9788172361266",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY001109",
+    "Phytochemical name": "Isovaleric acid",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY001854",
+    "Phytochemical name": "3-Methylbutanal",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003016",
+    "Phytochemical name": "Lauric acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003037",
+    "Phytochemical name": "Methoxsalen",
+    "References": "ISBN:9788172361266, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003345",
+    "Phytochemical name": "Umbelliprenin",
+    "References": "ISBN:9788172361266",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "DOI:10.1080/10412905.2001.9699689, ISBN:9788185042114, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003545",
+    "Phytochemical name": "4-Isopropylbenzaldehyde",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003694",
+    "Phytochemical name": "Germacrene a",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003955",
+    "Phytochemical name": "(R)-4-Isopropylcyclohex-2-enone",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003977",
+    "Phytochemical name": "(-)-beta-Bourbonene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003982",
+    "Phytochemical name": "gamma-Terpinene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY005428",
+    "Phytochemical name": "Bergapten",
+    "References": "ISBN:9788172361266, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY005974",
+    "Phytochemical name": "Longicyclene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "DOI:10.1080/10412905.2001.9699689, ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006350",
+    "Phytochemical name": "Psoralen",
+    "References": "ISBN:9788172361266",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007045",
+    "Phytochemical name": "2-Methylbutanoic acid",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007161",
+    "Phytochemical name": "Xanthotoxol",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007186",
+    "Phytochemical name": "Heptanal",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007197",
+    "Phytochemical name": "Isopimpinellin",
+    "References": "ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007198",
+    "Phytochemical name": "Isoimperatorin",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007201",
+    "Phytochemical name": "Carvacrol methyl ether",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007329",
+    "Phytochemical name": "Phellopterin",
+    "References": "ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007378",
+    "Phytochemical name": "(2S,3R,4R,5S,6S)-2-(hydroxymethyl)-6-(((2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(((4aR,8aS)-4-isopropyl-1,7-dimethyl-1,2,3,4,4a,5,8,8a-octahydronaphthalen-1-yl)oxy)tetrahydro-2H-pyran-2-yl)methoxy)tetrahydro-2H-pyran-3,4,5-triol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007840",
+    "Phytochemical name": "Spathulenol",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY008913",
+    "Phytochemical name": "Imperatorin",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY009889",
+    "Phytochemical name": "Hexyl isovalerate",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY010072",
+    "Phytochemical name": "Eucalyptol",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY010988",
+    "Phytochemical name": "trans-2-Icosenoic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011392",
+    "Phytochemical name": "3-Carene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011394",
+    "Phytochemical name": "Arachidic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011552",
+    "Phytochemical name": "(1R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hex-2-ene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011586",
+    "Phytochemical name": "(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011599",
+    "Phytochemical name": "Terpinolene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011619",
+    "Phytochemical name": "alpha-Amyrin",
+    "References": "ISBN:9770972795006, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011632",
+    "Phytochemical name": "Farnesol",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011643",
+    "Phytochemical name": "alpha-Terpinene",
+    "References": "ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011666",
+    "Phytochemical name": "Palmitoleic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011763",
+    "Phytochemical name": "Anethole",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011793",
+    "Phytochemical name": "(+)-gamma-Cadinene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011799",
+    "Phytochemical name": "Petroselinic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011816",
+    "Phytochemical name": "(3E,6Z)-3,7,11-trimethyldodeca-1,3,6,10-tetraene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011817",
+    "Phytochemical name": "alpha-Farnesene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011957",
+    "Phytochemical name": "(+)-delta-Cadinene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011965",
+    "Phytochemical name": "(+)-beta-Phellandrene",
+    "References": "DOI:10.1080/10412905.2001.9699689, ISBN:9788185042084, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012002",
+    "Phytochemical name": "(+)-Dihydrocarvone",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1080/10412905.2001.9699689, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1080/10412905.2001.9699689, ISBN:9770972795006, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012165",
+    "Phytochemical name": "Sabinene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012279",
+    "Phytochemical name": "alpha-Curcumene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012665",
+    "Phytochemical name": "Levomenol",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012701",
+    "Phytochemical name": "13-Amino-4-hydroxy-9,6a,8a-trimethyl(1,3,4,5,6,7,8,14,14a,14b,6a,6b,8a-trideca hydrobenzo[1''',2'''-3'',4'']benzo[1'',2''-4',3']benzo[1',2'-5,1]cyclopenta[3, 2-d]thiopheno[2,3-b]pyridin-12-yl) phenyl",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012739",
+    "Phytochemical name": "(Z)-beta-Ocimene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014811",
+    "Phytochemical name": "alpha-Phellandrene",
+    "References": "DOI:10.1080/10412905.2001.9699689, ISBN:9770972795006, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014835",
+    "Phytochemical name": "(E)-beta-ocimene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014847",
+    "Phytochemical name": "Bornyl acetate",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014852",
+    "Phytochemical name": "Camphene",
+    "References": "DOI:10.1080/10412905.2001.9699689, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014988",
+    "Phytochemical name": "Limonene",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014991",
+    "Phytochemical name": "Lupeol acetate",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY017905",
+    "Phytochemical name": "Oxacycloundecan-2-one",
+    "References": "DOI:10.1080/10412905.2001.9699689",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011965",
+    "Phytochemical name": "(+)-beta-Phellandrene",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014811",
+    "Phytochemical name": "alpha-Phellandrene",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000060",
+    "Phytochemical name": "Myristic acid",
+    "References": "ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000099",
+    "Phytochemical name": "Myrtenol",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000308",
+    "Phytochemical name": "Hexadecane",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000399",
+    "Phytochemical name": "beta-Bisabolene",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000491",
+    "Phytochemical name": "Pinene",
+    "References": "ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000545",
+    "Phytochemical name": "O-Cymene",
+    "References": "ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000575",
+    "Phytochemical name": "Angelicin",
+    "References": "DOI:10.1080/10412905.1993.9698257, ISBN:9780387706375, ISBN:9788172361266, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000607",
+    "Phytochemical name": "Pentylbenzene",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000619",
+    "Phytochemical name": "Perillyl alcohol",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000795",
+    "Phytochemical name": "Octanal",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000987",
+    "Phytochemical name": "Angelicain",
+    "References": "ISBN:9788172360481, ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001134",
+    "Phytochemical name": "Osthole",
+    "References": "DOI:10.1080/10412905.1993.9698257, DOI:10.1080/10412905.2002.9699855, ISBN:9770972795006, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001538",
+    "Phytochemical name": "2-Undecanol",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001546",
+    "Phytochemical name": "Oxacyclotetradecan-2-one",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001817",
+    "Phytochemical name": "p-Menth-3-en-1-ol",
+    "References": "ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001915",
+    "Phytochemical name": "Octadecane",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY002825",
+    "Phytochemical name": "2-(4-Methylphenyl)propan-2-ol",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY002875",
+    "Phytochemical name": "Undecane",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003016",
+    "Phytochemical name": "Lauric acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003037",
+    "Phytochemical name": "Methoxsalen",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172361266, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003113",
+    "Phytochemical name": "p-Cresol",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003274",
+    "Phytochemical name": "Oxacyclooctadecan-2-one",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003345",
+    "Phytochemical name": "Umbelliprenin",
+    "References": "ISBN:9788172361266",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003357",
+    "Phytochemical name": "Archangelin",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788185042053, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855, ISBN:9788172362089, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003525",
+    "Phytochemical name": "Nonanal",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003567",
+    "Phytochemical name": "alpha-Fenchene",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003616",
+    "Phytochemical name": "Bicyclogermacrene",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003719",
+    "Phytochemical name": "beta-Copaene",
+    "References": "DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003760",
+    "Phytochemical name": "2-Nonenal",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003807",
+    "Phytochemical name": "(E)-alpha-bisabolene",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003892",
+    "Phytochemical name": "Isoamyl angelate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003915",
+    "Phytochemical name": "2-Decenal",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003955",
+    "Phytochemical name": "(R)-4-Isopropylcyclohex-2-enone",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003982",
+    "Phytochemical name": "gamma-Terpinene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, ISBN:9788172362089, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004216",
+    "Phytochemical name": "(1S,2S,7S,8S)-2,6,6,9-tetramethyltricyclo[5.4.0.02,8]undec-9-ene",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004507",
+    "Phytochemical name": "12-Methyl-13-tridecanolide",
+    "References": "DOI:10.1080/10412905.1991.9697933, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004534",
+    "Phytochemical name": "Bergaptol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005128",
+    "Phytochemical name": "Oxypeucedanin hydrate",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005345",
+    "Phytochemical name": "1-Octen-3-OL",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005428",
+    "Phytochemical name": "Bergapten",
+    "References": "DOI:10.1080/10412905.1993.9698257, ISBN:9770972795006, ISBN:9788172361266, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005584",
+    "Phytochemical name": "Archangelicin",
+    "References": "ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005784",
+    "Phytochemical name": "Oxacyclohexadecan-2-one",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1993.9698257, DOI:10.1080/10412905.1997.10554250, ISBN:9770972795006, ISBN:9788172360481, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005954",
+    "Phytochemical name": "3'-(1''-(3-Methylbutanoyl))-angeloyl vaginidiol",
+    "References": "ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005974",
+    "Phytochemical name": "Longicyclene",
+    "References": "DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006060",
+    "Phytochemical name": "Benzyl isovalerate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855, ISBN:9788172362089, ISBN:9788185042145, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006155",
+    "Phytochemical name": "Oroselone",
+    "References": "DOI:10.1080/10412905.1993.9698257, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006210",
+    "Phytochemical name": "Ostruthol",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788172362089, ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006220",
+    "Phytochemical name": "Angelic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006350",
+    "Phytochemical name": "Psoralen",
+    "References": "DOI:10.1080/10412905.1991.9697933, ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172361266",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006932",
+    "Phytochemical name": "Cuparene",
+    "References": "DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006950",
+    "Phytochemical name": "Tricyclene",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006951",
+    "Phytochemical name": "Eicosane",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007161",
+    "Phytochemical name": "Xanthotoxol",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007186",
+    "Phytochemical name": "Heptanal",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007197",
+    "Phytochemical name": "Isopimpinellin",
+    "References": "DOI:10.1080/10412905.1993.9698257, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007198",
+    "Phytochemical name": "Isoimperatorin",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007201",
+    "Phytochemical name": "Carvacrol methyl ether",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007202",
+    "Phytochemical name": "Nonane",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007276",
+    "Phytochemical name": "Nonan-1-ol",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007291",
+    "Phytochemical name": "Heptane",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007299",
+    "Phytochemical name": "Phellandral",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007300",
+    "Phytochemical name": "Pregnenolone",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "DOI:10.1080/10412905.1993.9698257, ISBN:9788172362089, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007329",
+    "Phytochemical name": "Phellopterin",
+    "References": "ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007528",
+    "Phytochemical name": "Cadinane",
+    "References": "ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007539",
+    "Phytochemical name": "Phenylacetaldehyde",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007620",
+    "Phytochemical name": "1-Octanol",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007840",
+    "Phytochemical name": "Spathulenol",
+    "References": "DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007978",
+    "Phytochemical name": "Hexyl 2-methylbutanoate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008014",
+    "Phytochemical name": "Isobutylbenzene",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008036",
+    "Phytochemical name": "Isobergapten",
+    "References": "DOI:10.1080/10412905.1993.9698257, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008479",
+    "Phytochemical name": "Isooxypeucedanin",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008913",
+    "Phytochemical name": "Imperatorin",
+    "References": "ISBN:9770972795006, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009085",
+    "Phytochemical name": "1-Undecene",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009368",
+    "Phytochemical name": "Heptadecane",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009369",
+    "Phytochemical name": "Nonadecane",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009419",
+    "Phytochemical name": "Tridecane",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009513",
+    "Phytochemical name": "Tridecanoic acid",
+    "References": "ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009642",
+    "Phytochemical name": "2-Nonanone",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009751",
+    "Phytochemical name": "1-Heptanol",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009847",
+    "Phytochemical name": "2-(3-Methylphenyl)propan-2-ol",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009874",
+    "Phytochemical name": "Myrtenyl acetate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009889",
+    "Phytochemical name": "Hexyl isovalerate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009946",
+    "Phytochemical name": "Benzaldehyde",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009966",
+    "Phytochemical name": "Eucarvone",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010072",
+    "Phytochemical name": "Eucalyptol",
+    "References": "ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010080",
+    "Phytochemical name": "beta-Elemene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010603",
+    "Phytochemical name": "beta-Cadinene",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011215",
+    "Phytochemical name": "Tetradecane",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011262",
+    "Phytochemical name": "(1R,4Z,8Z)-6,6,9-trimethyl-2-methylidenecycloundeca-4,8-dien-1-ol",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011366",
+    "Phytochemical name": "Heraclenol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011392",
+    "Phytochemical name": "3-Carene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855, ISBN:9788172362089, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011396",
+    "Phytochemical name": "4-Carvomenthenol",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011438",
+    "Phytochemical name": "Bornyl isovalerate",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011542",
+    "Phytochemical name": "beta-Eudesmol",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011552",
+    "Phytochemical name": "(1R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hex-2-ene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011584",
+    "Phytochemical name": "1-Eicosanol",
+    "References": "DOI:10.1080/10412905.2002.9699855",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011586",
+    "Phytochemical name": "(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011590",
+    "Phytochemical name": "d-Borneol",
+    "References": "DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855, ISBN:9770972795006, ISBN:9788185042114, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011599",
+    "Phytochemical name": "Terpinolene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, ISBN:9788185042114, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011632",
+    "Phytochemical name": "Farnesol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011643",
+    "Phytochemical name": "alpha-Terpinene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011658",
+    "Phytochemical name": "beta-Farnesene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011659",
+    "Phytochemical name": "alpha-Muurolene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011666",
+    "Phytochemical name": "Palmitoleic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011745",
+    "Phytochemical name": "Zingiberene",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011763",
+    "Phytochemical name": "Anethole",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011792",
+    "Phytochemical name": "gamma-Muurolene",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011793",
+    "Phytochemical name": "(+)-gamma-Cadinene",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011817",
+    "Phytochemical name": "alpha-Farnesene",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011839",
+    "Phytochemical name": "(Z)-gamma-bisabolene",
+    "References": "ISBN:9770972795006, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011872",
+    "Phytochemical name": "(4E,7E)-1,5,9,9-Tetramethyl-12-oxabicyclo[9.1.0]dodeca-4,7-diene",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011890",
+    "Phytochemical name": "Elemol",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011957",
+    "Phytochemical name": "(+)-delta-Cadinene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011965",
+    "Phytochemical name": "(+)-beta-Phellandrene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855, ISBN:9788172362089, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011988",
+    "Phytochemical name": "(-)-trans-Carveol",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011999",
+    "Phytochemical name": "Carveol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012002",
+    "Phytochemical name": "(+)-Dihydrocarvone",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250, ISBN:9788185042114, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855, ISBN:9770972795006, ISBN:9788172362089, ISBN:9788185042084, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012072",
+    "Phytochemical name": "Carvyl acetate",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012075",
+    "Phytochemical name": "Carvone",
+    "References": "DOI:10.1080/10412905.1991.9697933, ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012076",
+    "Phytochemical name": "(+)-alpha-Phellandrene",
+    "References": "ISBN:9788172361266",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012086",
+    "Phytochemical name": "Citronellal",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, ISBN:9788172362089, ISBN:9788185042084, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012160",
+    "Phytochemical name": "alpha-Terpineol",
+    "References": "DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, ISBN:9770972795006, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012165",
+    "Phytochemical name": "Sabinene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012255",
+    "Phytochemical name": "(+)-trans-Piperitenol",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012261",
+    "Phytochemical name": "alpha-Bergamotene",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012279",
+    "Phytochemical name": "alpha-Curcumene",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012362",
+    "Phytochemical name": "P-Mentha-2,8-dien-1-ol",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012384",
+    "Phytochemical name": "4-[(3,3-Dimethyloxiran-2-yl)methoxy]furo[3,2-g]chromen-7-one",
+    "References": "DOI:10.1080/10412905.1991.9697933, ISBN:9788172362089, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012425",
+    "Phytochemical name": "Saxalin",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012585",
+    "Phytochemical name": "delta-Cadinol",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012586",
+    "Phytochemical name": "(-)-alpha-Cadinol",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012589",
+    "Phytochemical name": "3-(1,5-Dimethyl-4-hexenyl)-6-methylene-1-cyclohexene",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012665",
+    "Phytochemical name": "Levomenol",
+    "References": "DOI:10.1080/10412905.1997.10554246, ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012667",
+    "Phytochemical name": "Caryophyllene oxide",
+    "References": "DOI:10.1080/10412905.1997.10554250, ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012723",
+    "Phytochemical name": "Linolenic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012738",
+    "Phytochemical name": "Isocaryophyllene",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012739",
+    "Phytochemical name": "(Z)-beta-Ocimene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012921",
+    "Phytochemical name": "gamma-Elemene",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY013093",
+    "Phytochemical name": "delta-Elemene",
+    "References": "DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY013133",
+    "Phytochemical name": "(Z)-p-Menth-2-en-1-ol",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY013835",
+    "Phytochemical name": "(+)-Fenchone",
+    "References": "ISBN:9770976605004",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY013836",
+    "Phytochemical name": "Fenchone",
+    "References": "ISBN:9788185042114, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY013986",
+    "Phytochemical name": "Heptyl 2-methylbutyrate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014060",
+    "Phytochemical name": "Xanthotoxol geranyl ether",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014801",
+    "Phytochemical name": "Zizanene",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014806",
+    "Phytochemical name": "Caswell No. 264AB",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014811",
+    "Phytochemical name": "alpha-Phellandrene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855, ISBN:9770972795006, ISBN:9788172362089, ISBN:9788185042084, ISBN:9788185042145, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014814",
+    "Phytochemical name": "Archangelenone",
+    "References": "ISBN:9788172360481, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "ISBN:9770972795006, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014833",
+    "Phytochemical name": "beta-Himachalene",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014835",
+    "Phytochemical name": "(E)-beta-ocimene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014845",
+    "Phytochemical name": "Bisabolol",
+    "References": "ISBN:9788185042114, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014847",
+    "Phytochemical name": "Bornyl acetate",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014852",
+    "Phytochemical name": "Camphene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014858",
+    "Phytochemical name": "2,7,7-Trimethylbicyclo[3.1.1]hept-2-en-6-yl acetate",
+    "References": "ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014873",
+    "Phytochemical name": "2-Cyclohexen-1-ol, 3-methyl-6-(1-methylethyl)-, (1R,6S)-rel-",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014988",
+    "Phytochemical name": "Limonene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855, ISBN:9770972795006, ISBN:9788172362089, ISBN:9788185042084, ISBN:9788185042145, ISBN:9788190115162",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015004",
+    "Phytochemical name": "Menthone",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015016",
+    "Phytochemical name": "alpha-Muurolol",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015042",
+    "Phytochemical name": "Piperitone",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015062",
+    "Phytochemical name": "(+)-cis-Sabinol",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015063",
+    "Phytochemical name": "Sabinyl acetate",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015095",
+    "Phytochemical name": "2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethyl)-, trans-",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554246, DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015123",
+    "Phytochemical name": "alpha-Copaene",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855, ISBN:9788172362089",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015128",
+    "Phytochemical name": "T-Muurolol",
+    "References": "DOI:10.1080/10412905.1997.10554250",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015595",
+    "Phytochemical name": "Cyclopentadecanone",
+    "References": "DOI:10.1080/10412905.2002.9699855",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015721",
+    "Phytochemical name": "Heptyl isovalerate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015749",
+    "Phytochemical name": "Isoamyl isovalerate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY016150",
+    "Phytochemical name": "Octyl isovalerate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY016763",
+    "Phytochemical name": "(-)-Myrtenyl isovalerate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY016881",
+    "Phytochemical name": "8alpha-3-Copaen-8-ol",
+    "References": "DOI:10.1080/10412905.1991.9697933, DOI:10.1080/10412905.1997.10554250, DOI:10.1080/10412905.2002.9699855",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY016964",
+    "Phytochemical name": "Nonan-3-yl acetate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY016970",
+    "Phytochemical name": "3-Methylcyclopentadecanone",
+    "References": "DOI:10.1080/10412905.2002.9699855",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY017184",
+    "Phytochemical name": "5-Methylhexyl 2-methylbutanoate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY017185",
+    "Phytochemical name": "6-Methylheptyl 2-methylbutanoate",
+    "References": "DOI:10.1080/10412905.1997.10554246",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY017419",
+    "Phytochemical name": "5-Undecen-3-yne",
+    "References": "DOI:10.1080/10412905.1991.9697933",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000399",
+    "Phytochemical name": "beta-Bisabolene",
+    "References": "ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003345",
+    "Phytochemical name": "Umbelliprenin",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003490",
+    "Phytochemical name": "Coumarin",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY005128",
+    "Phytochemical name": "Oxypeucedanin hydrate",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY005428",
+    "Phytochemical name": "Bergapten",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788185042053, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006210",
+    "Phytochemical name": "Ostruthol",
+    "References": "ISBN:9770972795006, ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007197",
+    "Phytochemical name": "Isopimpinellin",
+    "References": "ISBN:9788172360481",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007198",
+    "Phytochemical name": "Isoimperatorin",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011965",
+    "Phytochemical name": "(+)-beta-Phellandrene",
+    "References": "ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012384",
+    "Phytochemical name": "4-[(3,3-Dimethyloxiran-2-yl)methoxy]furo[3,2-g]chromen-7-one",
+    "References": "ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014811",
+    "Phytochemical name": "alpha-Phellandrene",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9788172360481",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Angelica archangelica",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY000025",
+    "Phytochemical name": "Kessane",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY000399",
+    "Phytochemical name": "beta-Bisabolene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY001548",
+    "Phytochemical name": "Geranylacetone",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY003536",
+    "Phytochemical name": "Eugenol",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY003589",
+    "Phytochemical name": "acorenone B",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY003695",
+    "Phytochemical name": "(-)-Germacrene A",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY003956",
+    "Phytochemical name": "(+)-gamma-Gurjunene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY003982",
+    "Phytochemical name": "gamma-Terpinene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY004029",
+    "Phytochemical name": "(-)-Acorenone",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY004286",
+    "Phytochemical name": "Longifolene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY006177",
+    "Phytochemical name": "Methyl geranate",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY006696",
+    "Phytochemical name": "Methyleugenol",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY006950",
+    "Phytochemical name": "Tricyclene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY007840",
+    "Phytochemical name": "Spathulenol",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY009999",
+    "Phytochemical name": "3-Methylbutyl hexanoate",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY010080",
+    "Phytochemical name": "beta-Elemene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY011581",
+    "Phytochemical name": "alpha-Selinene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY011586",
+    "Phytochemical name": "(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY011590",
+    "Phytochemical name": "d-Borneol",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY011599",
+    "Phytochemical name": "Terpinolene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY011647",
+    "Phytochemical name": "Geranyl acetate",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY011660",
+    "Phytochemical name": "(+)-alpha-Cadinene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY011902",
+    "Phytochemical name": "beta-Thujone",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012036",
+    "Phytochemical name": "Camphor",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012075",
+    "Phytochemical name": "Carvone",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012085",
+    "Phytochemical name": "Isobutyl hexanoate",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012097",
+    "Phytochemical name": "Methyl octanoate",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012124",
+    "Phytochemical name": "Butyl octanoate",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012132",
+    "Phytochemical name": "Propyl hexanoate",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012155",
+    "Phytochemical name": "3-Methylbutyl octanoate",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012160",
+    "Phytochemical name": "alpha-Terpineol",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012165",
+    "Phytochemical name": "Sabinene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012642",
+    "Phytochemical name": "Neoisolongifolene, 8-oxo-",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012667",
+    "Phytochemical name": "Caryophyllene oxide",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012916",
+    "Phytochemical name": "beta-Acorenol",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012921",
+    "Phytochemical name": "gamma-Elemene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY014708",
+    "Phytochemical name": "beta-Selinene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY014806",
+    "Phytochemical name": "Caswell No. 264AB",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY014852",
+    "Phytochemical name": "Camphene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY014988",
+    "Phytochemical name": "Limonene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY016012",
+    "Phytochemical name": "Allo-Aromadendrene",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY016014",
+    "Phytochemical name": "Isobornyl acetate",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY017937",
+    "Phytochemical name": "Thuj-3-en-10-al",
+    "References": "DOI:10.1080/0972060x.2014.884814",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Bothriochloa bladhii",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY003589",
+    "Phytochemical name": "acorenone B",
+    "References": "ISBN:9788172360481",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011741",
+    "Phytochemical name": "Tannic acid",
+    "References": "ISBN:9788172361266, ISBN:9789327275590",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY013522",
+    "Phytochemical name": "Triterpenoids",
+    "References": "ISBN:9788190115155",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003166",
+    "Phytochemical name": "Koprutin",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172360818, ISBN:9788172362089, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9770972795006, ISBN:9788172362089, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9770972795006, ISBN:9788172362089, ISBN:9788185042138",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010565",
+    "Phytochemical name": "Vincetoxicoside B",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172362089, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012021",
+    "Phytochemical name": "Gallic acid",
+    "References": "ISBN:9770972795006, ISBN:9788172362089, ISBN:9788185042138",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY013522",
+    "Phytochemical name": "Triterpenoids",
+    "References": "ISBN:9780387706375",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014969",
+    "Phytochemical name": "kaempferol 7-O-glucoside",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172362089, ISBN:9788185042138",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000060",
+    "Phytochemical name": "Myristic acid",
+    "References": "ISBN:9770972795006, ISBN:9788171360536",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002896",
+    "Phytochemical name": "1,2-Dioleoyl-3-palmitoylglycerol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003587",
+    "Phytochemical name": "Triolein",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003996",
+    "Phytochemical name": "Anacardic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9770972795006, ISBN:9788171360536",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006346",
+    "Phytochemical name": "Glycerol 1,2-di-(9Z-octadecenoate) 3-octadecanoate",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9770972795006, ISBN:9788171360536",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY010094",
+    "Phytochemical name": "Tristearin",
+    "References": "ISBN:9780387706375",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011394",
+    "Phytochemical name": "Arachidic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9770972795006, ISBN:9788171360536",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012120",
+    "Phytochemical name": "Tripalmitin",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Buchanania cochinchinensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9770972795006, ISBN:9788171360536",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000669",
+    "Phytochemical name": "Cryptanoside A",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172362133, ISBN:9788185042138",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005510",
+    "Phytochemical name": "Cryptosin",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172362133, ISBN:9788185042138",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006386",
+    "Phytochemical name": "Cardenolide",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007232",
+    "Phytochemical name": "Cryptolepine",
+    "References": "ISBN:9788171360536",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006480",
+    "Phytochemical name": "Sarmentogenin",
+    "References": "ISBN:9788171360536, ISBN:9788185042138",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010844",
+    "Phytochemical name": "Sarmentocymarin",
+    "References": "ISBN:9788171360536, ISBN:9788185042138",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000165",
+    "Phytochemical name": "Tetracosanoic acid",
+    "References": "ISBN:9788172362133",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9770972795006, ISBN:9788172362133",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007212",
+    "Phytochemical name": "Docosanoic acid",
+    "References": "ISBN:9770972795006, ISBN:9788172362133",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9770972795006, ISBN:9788172362133",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9770972795006, ISBN:9788172362133",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014789",
+    "Phytochemical name": "12-Octadecenoic acid, 9-oxo-, (12Z)-",
+    "References": "ISBN:9770972795006, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9770972795006, ISBN:9788172362133",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004830",
+    "Phytochemical name": "Buchananine",
+    "References": "ISBN:9788171360536",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY007232",
+    "Phytochemical name": "Cryptolepine",
+    "References": "ISBN:9788171360536",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY011619",
+    "Phytochemical name": "alpha-Amyrin",
+    "References": "ISBN:9788172360481",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Cryptolepis dubia",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9788172360481",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY002983",
+    "Phytochemical name": "1-Hexadecanol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY003002",
+    "Phytochemical name": "Lapachol",
+    "References": "ISBN:9770972795006, ISBN:9788185042138",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY007273",
+    "Phytochemical name": "1-Hexacosanol",
+    "References": "ISBN:9788185042138",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9770972795006, ISBN:9788185042138",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015047",
+    "Phytochemical name": "Rutin",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011666",
+    "Phytochemical name": "Palmitoleic acid",
+    "References": "ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014862",
+    "Phytochemical name": "cis-Vaccenic acid",
+    "References": "ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY003002",
+    "Phytochemical name": "Lapachol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004090",
+    "Phytochemical name": "Dehydrotectol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY005358",
+    "Phytochemical name": "(5,5'-Bi-2H-naphtho(1,2-b)pyran)-6,6'-diol, 2,2,2',2'-tetramethyl-",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandra unguis-cati",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandrone falcata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004660",
+    "Phytochemical name": "Luteolin",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172360481",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandrone falcata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005513",
+    "Phytochemical name": "Chrysin",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172360481",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandrone falcata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010377",
+    "Phytochemical name": "Chrysin 7-glucoside",
+    "References": "ISBN:9788172360481",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Dolichandrone falcata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010378",
+    "Phytochemical name": "Chrysin 7-rutinoside",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172360481, ISBN:9788185042084",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY002588",
+    "Phytochemical name": "Flavylium",
+    "References": "ISBN:9780387706375",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003596",
+    "Phytochemical name": "Meratin",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003979",
+    "Phytochemical name": "beta-Sitostenone",
+    "References": "ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY005283",
+    "Phytochemical name": "1-Tetratriacontanol",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009482",
+    "Phytochemical name": "Nonacosane",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY010391",
+    "Phytochemical name": "Hexyl stearate",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011561",
+    "Phytochemical name": "Spiraeoside",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011898",
+    "Phytochemical name": "Guaijaverin",
+    "References": "ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012003",
+    "Phytochemical name": "Betulinic acid",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012524",
+    "Phytochemical name": "Cyanin",
+    "References": "ISBN:9770972795006, ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012721",
+    "Phytochemical name": "Isoquercitrin",
+    "References": "ISBN:9770972795006, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012756",
+    "Phytochemical name": "Quercimeritrin",
+    "References": "ISBN:9770972795006, ISBN:9788185042053",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012871",
+    "Phytochemical name": "Quercetin 3-sambubioside",
+    "References": "ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014645",
+    "Phytochemical name": "Stigmasta-4-ene-one",
+    "References": "ISBN:9780387706375",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014935",
+    "Phytochemical name": "Hyperoside",
+    "References": "ISBN:9770972795006, ISBN:9788185042114",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY015047",
+    "Phytochemical name": "Rutin",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011802",
+    "Phytochemical name": "Ferulic acid",
+    "References": "ISBN:9770976605004",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY001097",
+    "Phytochemical name": "Malvalic acid",
+    "References": "ISBN:9788172362300",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY009570",
+    "Phytochemical name": "Sterculic acid",
+    "References": "ISBN:9788172362300",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011724",
+    "Phytochemical name": "(9Z)-(12S,13R)-12,13-Epoxyoctadecenoic acid",
+    "References": "ISBN:9788172362300",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004038",
+    "Phytochemical name": "Eriodictyol",
+    "References": "ISBN:9770972795006, ISBN:9788172360481",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Hibiscus mutabilis",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY010550",
+    "Phytochemical name": "Naringetol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Macaranga peltata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004660",
+    "Phytochemical name": "Luteolin",
+    "References": "ISBN:9770972795006, ISBN:9788172362461",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Macaranga peltata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005431",
+    "Phytochemical name": "Diosmetin",
+    "References": "ISBN:9770972795006, ISBN:9788172362461",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Macaranga peltata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005537",
+    "Phytochemical name": "Ellagic acid",
+    "References": "ISBN:9770972795006, ISBN:9788172362461",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Macaranga peltata",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011607",
+    "Phytochemical name": "Bergenin",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Markhamia lutea",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010378",
+    "Phytochemical name": "Chrysin 7-rutinoside",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Markhamia lutea",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY003002",
+    "Phytochemical name": "Lapachol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Markhamia lutea",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY003137",
+    "Phytochemical name": "Paulownin",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Markhamia lutea",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007513",
+    "Phytochemical name": "beta-Lapachone",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Markhamia lutea",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  },
+  {
+    "Indian medicinal plant": "Markhamia lutea",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY014895",
+    "Phytochemical name": "5-[3-(1,3-Benzodioxol-5-yl)-1,3,3a,4,6,6a-hexahydrofuro[3,4-c]furan-6-yl]-1,3-benzodioxole",
+    "References": "ISBN:9770972795006",
+    "query_used": "chan"
+  }
+]

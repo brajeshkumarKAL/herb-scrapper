@@ -1,0 +1,978 @@
+[
+  {
+    "Indian medicinal plant": "Didymocarpus oblongus",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY007666",
+    "Phytochemical name": "ent-7alpha-Hydroxykaur-16-en-19-oic acid",
+    "References": "ISBN:9788185042114",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9788172360481",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005483",
+    "Phytochemical name": "5,8-Dihydroxy-7-methoxyflavone",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008464",
+    "Phytochemical name": "Isodidymocarpin",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788185042084, ISBN:9788185042114",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009307",
+    "Phytochemical name": "Pedicinin",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788172361266, ISBN:9788185042084",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009314",
+    "Phytochemical name": "Pedicellin",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788172361266, ISBN:9788185042084, ISBN:9788185042114",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009753",
+    "Phytochemical name": "Kanakugiol",
+    "References": "ISBN:9770972795006, ISBN:9788172361266, ISBN:9788185042053",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012892",
+    "Phytochemical name": "Pedicin",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788172361266",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014609",
+    "Phytochemical name": "(2S)-6-hydroxy-5,7,8-trimethoxy-2-phenyl-2,3-dihydrochromen-4-one",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014745",
+    "Phytochemical name": "2',3',4',5',6'-Pentamethoxychalcone",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015033",
+    "Phytochemical name": "Pashanone",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788185042084, ISBN:9788185042114",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009314",
+    "Phytochemical name": "Pedicellin",
+    "References": "ISBN:9788172360481",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012892",
+    "Phytochemical name": "Pedicin",
+    "References": "ISBN:9788172360481",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9788172360481",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015033",
+    "Phytochemical name": "Pashanone",
+    "References": "ISBN:9788172360481",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY009314",
+    "Phytochemical name": "Pedicellin",
+    "References": "ISBN:9788185042114",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY009753",
+    "Phytochemical name": "Kanakugiol",
+    "References": "ISBN:9788185042114",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Didymocarpus pedicellatus",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042053",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011577",
+    "Phytochemical name": "Procyanidin B2",
+    "References": "ISBN:9788185042145",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014908",
+    "Phytochemical name": "(-)-Epicatechin",
+    "References": "ISBN:9788185042084",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015045",
+    "Phytochemical name": "Procyanidin C1",
+    "References": "ISBN:9788185042145",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011956",
+    "Phytochemical name": "(24E)-24-N-Propylidenecholesterol",
+    "References": "ISBN:9788185042114",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9788185042114",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY000042",
+    "Phytochemical name": "3-Methyl-2-butanone",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY001215",
+    "Phytochemical name": "Propanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY001849",
+    "Phytochemical name": "3-Pentanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY001854",
+    "Phytochemical name": "3-Methylbutanal",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY001971",
+    "Phytochemical name": "1-Penten-3-OL",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY002915",
+    "Phytochemical name": "Benzyl Alcohol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY002939",
+    "Phytochemical name": "Ethyl 2-methylbutyrate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY002949",
+    "Phytochemical name": "1-Butanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003512",
+    "Phytochemical name": "Ethyl hexanoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003855",
+    "Phytochemical name": "cis-2-Penten-1-ol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY004934",
+    "Phytochemical name": "Tiglic aldehyde",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY005345",
+    "Phytochemical name": "1-Octen-3-OL",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY005935",
+    "Phytochemical name": "trans-2-Pentenal",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006009",
+    "Phytochemical name": "Acetal",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006033",
+    "Phytochemical name": "Ethyl butyrate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006279",
+    "Phytochemical name": "2-Phenylethanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006347",
+    "Phytochemical name": "Hexanal",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006417",
+    "Phytochemical name": "2,6-Dimethyl-2,4,6-octatriene",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006469",
+    "Phytochemical name": "2-Methyl-2-butanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006574",
+    "Phytochemical name": "Ethyl benzoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006952",
+    "Phytochemical name": "m-Xylene",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007007",
+    "Phytochemical name": "Ethyl isobutyrate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007109",
+    "Phytochemical name": "2,3-Butanedione",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007140",
+    "Phytochemical name": "Methyl vinyl ketone",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007162",
+    "Phytochemical name": "2-Methyl-3-buten-2-OL",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007171",
+    "Phytochemical name": "1-Hexanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007417",
+    "Phytochemical name": "Ethyl acetate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007620",
+    "Phytochemical name": "1-Octanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007710",
+    "Phytochemical name": "2-Butanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007720",
+    "Phytochemical name": "Methyl ethyl ketone",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007967",
+    "Phytochemical name": "Ethyl 3-hydroxybutyrate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY008065",
+    "Phytochemical name": "Ethyl dodecanoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY008066",
+    "Phytochemical name": "Ethyl octanoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY008146",
+    "Phytochemical name": "1-Pentanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY009624",
+    "Phytochemical name": "Ethyl palmitate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY009751",
+    "Phytochemical name": "1-Heptanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY009961",
+    "Phytochemical name": "Ethyl isovalerate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY009962",
+    "Phytochemical name": "Ethyl tetradecanoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY010086",
+    "Phytochemical name": "6-Methylhept-5-en-2-ol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011562",
+    "Phytochemical name": "2-Hexenal",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011588",
+    "Phytochemical name": "cis-3-Hexen-1-ol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011658",
+    "Phytochemical name": "beta-Farnesene",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011692",
+    "Phytochemical name": "trans-3-Hexen-1-ol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011694",
+    "Phytochemical name": "2-Hexen-1-OL",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011817",
+    "Phytochemical name": "alpha-Farnesene",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011818",
+    "Phytochemical name": "(Z,E)-alpha-Farnesene",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012059",
+    "Phytochemical name": "Isobutanol",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY013749",
+    "Phytochemical name": "3-Pentanone",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY013775",
+    "Phytochemical name": "Methyl butyrate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014835",
+    "Phytochemical name": "(E)-beta-ocimene",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015123",
+    "Phytochemical name": "alpha-Copaene",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015503",
+    "Phytochemical name": "Benzyl methyl ether",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015612",
+    "Phytochemical name": "Diethyl carbonate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015613",
+    "Phytochemical name": "Diethyl succinate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015614",
+    "Phytochemical name": "2(3H)-Furanone, dihydro-3-methyl-, (R)-",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015657",
+    "Phytochemical name": "Ethyl lactate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015660",
+    "Phytochemical name": "Ethyl decanoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015670",
+    "Phytochemical name": "Ethyl propionate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015673",
+    "Phytochemical name": "Ethyl (E)-3-hexenoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015817",
+    "Phytochemical name": "Methyl 2-hydroxy-3-methylbutanoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015818",
+    "Phytochemical name": "Methyl 2-hydroxy-3-methylpentanoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015819",
+    "Phytochemical name": "Methyl 2-hydroxy-4-methylpentanoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015822",
+    "Phytochemical name": "Methyl 3,7-dimethylocta-3,6-dienoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015824",
+    "Phytochemical name": "Methyl 3-hydroxy-3-methylbutanoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015825",
+    "Phytochemical name": "Methyl 3-hydroxybutyrate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015867",
+    "Phytochemical name": "Propyl acetate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY017404",
+    "Phytochemical name": "Ethyl trans-2-hexenoate",
+    "References": "DOI:10.1002/(sici)1099-1026(199607)11:4<223::aid-ffj579>3.0.co;2-b",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003746",
+    "Phytochemical name": "Hentriacontan-16-ol",
+    "References": "ISBN:9770972795006, ISBN:9788172360818, ISBN:9788185042084",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011688",
+    "Phytochemical name": "Friedelin",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011859",
+    "Phytochemical name": "Epifriedelanol",
+    "References": "ISBN:9770972795006, ISBN:9788172360818, ISBN:9788185042084",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9788172360818, ISBN:9788185042084",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9770972795006, ISBN:9788172360818, ISBN:9788185042084",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014925",
+    "Phytochemical name": "beta-D-Glucose",
+    "References": "ISBN:9788172360818",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015078",
+    "Phytochemical name": "Stigmasterol glucoside",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY001939",
+    "Phytochemical name": "Hypoglycin",
+    "References": "ISBN:9780387706375, ISBN:9788172362300",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004799",
+    "Phytochemical name": "Chebulagic acid",
+    "References": "ISBN:9788185042145",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY009554",
+    "Phytochemical name": "Amino-hydroxy-heptynoic acid",
+    "References": "ISBN:9780387706375, ISBN:9788172362300",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY010965",
+    "Phytochemical name": "Corilagin",
+    "References": "ISBN:9770976605004, ISBN:9788185042084",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Dimocarpus longan",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012021",
+    "Phytochemical name": "Gallic acid",
+    "References": "ISBN:9788185042145",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000099",
+    "Phytochemical name": "Myrtenol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006428",
+    "Phytochemical name": "(R)-Lavandulol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006774",
+    "Phytochemical name": "1,5,7-Octatrien-3-ol, 3,7-dimethyl-, (3R,5E)-",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007620",
+    "Phytochemical name": "1-Octanol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007840",
+    "Phytochemical name": "Spathulenol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008198",
+    "Phytochemical name": "4-Vinylphenol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009977",
+    "Phytochemical name": "Cyclohexanol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010072",
+    "Phytochemical name": "Eucalyptol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010640",
+    "Phytochemical name": "Eudesmol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011763",
+    "Phytochemical name": "Anethole",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011890",
+    "Phytochemical name": "Elemol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012086",
+    "Phytochemical name": "Citronellal",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012264",
+    "Phytochemical name": "1,14-Tetradecanediol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012712",
+    "Phytochemical name": "Phytol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014845",
+    "Phytochemical name": "Bisabolol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  },
+  {
+    "Indian medicinal plant": "Ormocarpum sennoides",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014923",
+    "Phytochemical name": "Geraniol",
+    "References": "ISBN:9770972795006",
+    "query_used": "mocā"
+  }
+]

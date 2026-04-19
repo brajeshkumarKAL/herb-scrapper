@@ -1,0 +1,122 @@
+[
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000060",
+    "Phytochemical name": "Myristic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY001665",
+    "Phytochemical name": "Bonducellin",
+    "References": "ISBN:9770972795006, ISBN:9788172363178, ISBN:9789327275590",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY005231",
+    "Phytochemical name": "alpha-Caesalpin",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788185042053",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006641",
+    "Phytochemical name": "beta-Caesalpin",
+    "References": "ISBN:9770972795006, ISBN:9788172360481",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY009806",
+    "Phytochemical name": "epsilon-Caesalpin",
+    "References": "ISBN:9788185042053",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY009915",
+    "Phytochemical name": "Caesalpin F",
+    "References": "ISBN:9788172363178",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011394",
+    "Phytochemical name": "Arachidic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY013322",
+    "Phytochemical name": "delta-Caesalpin",
+    "References": "ISBN:9770972795006",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY001665",
+    "Phytochemical name": "Bonducellin",
+    "References": "ISBN:9788171360536",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY005231",
+    "Phytochemical name": "alpha-Caesalpin",
+    "References": "ISBN:9788171360536",
+    "query_used": "fever nut"
+  },
+  {
+    "Indian medicinal plant": "Caesalpinia bonduc",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006641",
+    "Phytochemical name": "beta-Caesalpin",
+    "References": "ISBN:9788171360536",
+    "query_used": "fever nut"
+  }
+]

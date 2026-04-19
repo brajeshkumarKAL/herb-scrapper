@@ -1,0 +1,58 @@
+[
+  {
+    "Indian medicinal plant": "Dolichandrone falcata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004660",
+    "Phytochemical name": "Luteolin",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172360481",
+    "query_used": "hing"
+  },
+  {
+    "Indian medicinal plant": "Dolichandrone falcata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005513",
+    "Phytochemical name": "Chrysin",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172360481",
+    "query_used": "hing"
+  },
+  {
+    "Indian medicinal plant": "Dolichandrone falcata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010377",
+    "Phytochemical name": "Chrysin 7-glucoside",
+    "References": "ISBN:9788172360481",
+    "query_used": "hing"
+  },
+  {
+    "Indian medicinal plant": "Dolichandrone falcata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010378",
+    "Phytochemical name": "Chrysin 7-rutinoside",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172360481, ISBN:9788185042084",
+    "query_used": "hing"
+  },
+  {
+    "Indian medicinal plant": "Rubus chingii",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006612",
+    "Phytochemical name": "Corosolic acid",
+    "References": "ISBN:9770976605004",
+    "query_used": "hing"
+  },
+  {
+    "Indian medicinal plant": "Rubus chingii",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011970",
+    "Phytochemical name": "Maslinic acid",
+    "References": "ISBN:9770976605004",
+    "query_used": "hing"
+  },
+  {
+    "Indian medicinal plant": "Symphorema involucratum",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9780387706375",
+    "query_used": "hing"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY001991",
+    "Phytochemical name": "Specioside",
+    "References": "ISBN:9788172361792, ISBN:9788185042114",
+    "query_used": "yellow snake tree"
+  },
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005447",
+    "Phytochemical name": "6-Hydroxyluteolin",
+    "References": "ISBN:9788172361792",
+    "query_used": "yellow snake tree"
+  },
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003002",
+    "Phytochemical name": "Lapachol",
+    "References": "ISBN:9780387706375, ISBN:9788185042114",
+    "query_used": "yellow snake tree"
+  },
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004090",
+    "Phytochemical name": "Dehydrotectol",
+    "References": "ISBN:9780387706375, ISBN:9788172361792",
+    "query_used": "yellow snake tree"
+  },
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9780387706375, ISBN:9788172361792",
+    "query_used": "yellow snake tree"
+  },
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006054",
+    "Phytochemical name": "Dehydro-alpha-lapachone",
+    "References": "ISBN:9780387706375",
+    "query_used": "yellow snake tree"
+  },
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006558",
+    "Phytochemical name": "1-Triacontanol",
+    "References": "ISBN:9780387706375, ISBN:9788172361792",
+    "query_used": "yellow snake tree"
+  },
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007273",
+    "Phytochemical name": "1-Hexacosanol",
+    "References": "ISBN:9780387706375",
+    "query_used": "yellow snake tree"
+  },
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9780387706375, ISBN:9788172361792",
+    "query_used": "yellow snake tree"
+  },
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9780387706375, ISBN:9788172361792",
+    "query_used": "yellow snake tree"
+  },
+  {
+    "Indian medicinal plant": "Stereospermum tetragonum",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375, ISBN:9788172361792",
+    "query_used": "yellow snake tree"
+  }
+]

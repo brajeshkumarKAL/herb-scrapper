@@ -1,0 +1,42 @@
+[
+  {
+    "Indian medicinal plant": "Ficus virens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004445",
+    "Phytochemical name": "Methyl ricinoleate",
+    "References": "ISBN:9788185042138",
+    "query_used": "ficus virens"
+  },
+  {
+    "Indian medicinal plant": "Ficus virens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011607",
+    "Phytochemical name": "Bergenin",
+    "References": "ISBN:9788185042138",
+    "query_used": "ficus virens"
+  },
+  {
+    "Indian medicinal plant": "Ficus virens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011857",
+    "Phytochemical name": "Lanosterol",
+    "References": "ISBN:9788185042138",
+    "query_used": "ficus virens"
+  },
+  {
+    "Indian medicinal plant": "Ficus virens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011933",
+    "Phytochemical name": "Caffeic acid",
+    "References": "ISBN:9788185042138",
+    "query_used": "ficus virens"
+  },
+  {
+    "Indian medicinal plant": "Ficus virens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042138",
+    "query_used": "ficus virens"
+  }
+]

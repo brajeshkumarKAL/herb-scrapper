@@ -1,0 +1,850 @@
+[
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY000099",
+    "Phytochemical name": "Myrtenol",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003545",
+    "Phytochemical name": "4-Isopropylbenzaldehyde",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003977",
+    "Phytochemical name": "(-)-beta-Bourbonene",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003982",
+    "Phytochemical name": "gamma-Terpinene",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004077",
+    "Phytochemical name": "Verbenone",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006325",
+    "Phytochemical name": "Myrtenal",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006696",
+    "Phytochemical name": "Methyleugenol",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006944",
+    "Phytochemical name": "Estragole",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY008150",
+    "Phytochemical name": "1-Methyl-4-(prop-1-en-2-yl)benzene",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY009778",
+    "Phytochemical name": "1-Isopropyl-4-methylenebicyclo[3.1.0]hex-2-ene",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY009847",
+    "Phytochemical name": "2-(3-Methylphenyl)propan-2-ol",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011392",
+    "Phytochemical name": "3-Carene",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011396",
+    "Phytochemical name": "4-Carvomenthenol",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011407",
+    "Phytochemical name": "alpha-Campholenal",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011552",
+    "Phytochemical name": "(1R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hex-2-ene",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011590",
+    "Phytochemical name": "d-Borneol",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011599",
+    "Phytochemical name": "Terpinolene",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011643",
+    "Phytochemical name": "alpha-Terpinene",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011741",
+    "Phytochemical name": "Tannic acid",
+    "References": "ISBN:9788172360818",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011745",
+    "Phytochemical name": "Zingiberene",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011901",
+    "Phytochemical name": "Thujone",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011902",
+    "Phytochemical name": "beta-Thujone",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011965",
+    "Phytochemical name": "(+)-beta-Phellandrene",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011988",
+    "Phytochemical name": "(-)-trans-Carveol",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012036",
+    "Phytochemical name": "Camphor",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012075",
+    "Phytochemical name": "Carvone",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012160",
+    "Phytochemical name": "alpha-Terpineol",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012165",
+    "Phytochemical name": "Sabinene",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012265",
+    "Phytochemical name": "(1r,3s,5r)-6,6-Dimethyl-2-methylidenebicyclo[3.1.1]heptan-3-ol",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012739",
+    "Phytochemical name": "(Z)-beta-Ocimene",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY013836",
+    "Phytochemical name": "Fenchone",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014723",
+    "Phytochemical name": "Cyclohexene, 1-methyl-4-(1-methylethyl)-",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014811",
+    "Phytochemical name": "alpha-Phellandrene",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014835",
+    "Phytochemical name": "(E)-beta-ocimene",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172360481, ISBN:9788172360818",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014847",
+    "Phytochemical name": "Bornyl acetate",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014852",
+    "Phytochemical name": "Camphene",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014869",
+    "Phytochemical name": "Isomenthone",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014877",
+    "Phytochemical name": "(S)-cis-Verbenol",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014988",
+    "Phytochemical name": "Limonene",
+    "References": "DOI:10.1002/ffj.1124, DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015004",
+    "Phytochemical name": "Menthone",
+    "References": "DOI:10.1002/ffj.2730020304",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015123",
+    "Phytochemical name": "alpha-Copaene",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015321",
+    "Phytochemical name": "3,5-Dimethoxytoluene",
+    "References": "DOI:10.1002/ffj.1124",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006944",
+    "Phytochemical name": "Estragole",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011552",
+    "Phytochemical name": "(1R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hex-2-ene",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011599",
+    "Phytochemical name": "Terpinolene",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011902",
+    "Phytochemical name": "beta-Thujone",
+    "References": "ISBN:9788172360818",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012160",
+    "Phytochemical name": "alpha-Terpineol",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012175",
+    "Phytochemical name": "D-Limonene",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014811",
+    "Phytochemical name": "alpha-Phellandrene",
+    "References": "ISBN:9770972795006, ISBN:9788185042084",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014847",
+    "Phytochemical name": "Bornyl acetate",
+    "References": "ISBN:9770972795006",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY000046",
+    "Phytochemical name": "3-Acetyl-11-keto-beta-boswellic acid",
+    "References": "The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY001829",
+    "Phytochemical name": "3-Acetyl-beta-boswellic acid",
+    "References": "ISBN:9770972795006, The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "ISBN:9788171360536, The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY005084",
+    "Phytochemical name": "beta-Boswellic acid",
+    "References": "ISBN:9770972795006, ISBN:9770976605004, ISBN:9788171360536, ISBN:9788172360481, ISBN:9788172360818",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "DOI:10.1002/ffj.1772, ISBN:9770972795006, ISBN:9788171360536, The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY006944",
+    "Phytochemical name": "Estragole",
+    "References": "DOI:10.1002/ffj.1772, ISBN:9770972795006",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY006950",
+    "Phytochemical name": "Tricyclene",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY007067",
+    "Phytochemical name": "Linalyl acetate",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY007324",
+    "Phytochemical name": "11-Keto-beta-boswellic acid",
+    "References": "The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY007528",
+    "Phytochemical name": "Cadinane",
+    "References": "DOI:10.1002/ffj.1772, ISBN:9770972795006",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY007610",
+    "Phytochemical name": "Ursane",
+    "References": "ISBN:9780387706375",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY008239",
+    "Phytochemical name": "alpha-Boswellic acid",
+    "References": "ISBN:9770976605004",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY010121",
+    "Phytochemical name": "Euphane",
+    "References": "ISBN:9780387706375",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY010640",
+    "Phytochemical name": "Eudesmol",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011396",
+    "Phytochemical name": "4-Carvomenthenol",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011482",
+    "Phytochemical name": "(1S,3Z,7E,11Z)-1-isopropyl-4,8,12-trimethyl-cyclotetradeca-3,7,11-trien-1-ol",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172360481, ISBN:9788185042084",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011519",
+    "Phytochemical name": "alpha-Terpinyl acetate",
+    "References": "ISBN:9770972795006",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011552",
+    "Phytochemical name": "(1R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hex-2-ene",
+    "References": "DOI:10.1002/ffj.1772, The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011599",
+    "Phytochemical name": "Terpinolene",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011619",
+    "Phytochemical name": "alpha-Amyrin",
+    "References": "ISBN:9770972795006, ISBN:9788172360818",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011643",
+    "Phytochemical name": "alpha-Terpinene",
+    "References": "ISBN:9788171360536",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011763",
+    "Phytochemical name": "Anethole",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011873",
+    "Phytochemical name": "Humulene epoxide",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011890",
+    "Phytochemical name": "Elemol",
+    "References": "DOI:10.1002/ffj.1772, ISBN:9770972795006",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011939",
+    "Phytochemical name": "10-epi-gamma-Eudesmol",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011965",
+    "Phytochemical name": "(+)-beta-Phellandrene",
+    "References": "The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1002/ffj.1772, ISBN:9770972795006",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1002/ffj.1772, ISBN:9770972795006, ISBN:9788171360536",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012104",
+    "Phytochemical name": "Citronellol",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "ISBN:9770972795006, ISBN:9788171360536",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012160",
+    "Phytochemical name": "alpha-Terpineol",
+    "References": "DOI:10.1002/ffj.1772, ISBN:9770972795006, The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012165",
+    "Phytochemical name": "Sabinene",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012175",
+    "Phytochemical name": "D-Limonene",
+    "References": "ISBN:9770972795006",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9770972795006, ISBN:9788172360818",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012739",
+    "Phytochemical name": "(Z)-beta-Ocimene",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY013333",
+    "Phytochemical name": "Undecenol",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY013971",
+    "Phytochemical name": "epi-Cubenol",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY014388",
+    "Phytochemical name": "Holothurin A",
+    "References": "ISBN:9788172360481",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY014811",
+    "Phytochemical name": "alpha-Phellandrene",
+    "References": "ISBN:9788171360536, The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY014852",
+    "Phytochemical name": "Camphene",
+    "References": "DOI:10.1002/ffj.1772, ISBN:9788171360536, The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY014923",
+    "Phytochemical name": "Geraniol",
+    "References": "DOI:10.1002/ffj.1772, ISBN:9770972795006",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY014988",
+    "Phytochemical name": "Limonene",
+    "References": "DOI:10.1002/ffj.1772, ISBN:9770972795006, ISBN:9788171360536, The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY015004",
+    "Phytochemical name": "Menthone",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY015011",
+    "Phytochemical name": "Methylisoeugenol",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY015022",
+    "Phytochemical name": "Nerolidol",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY015947",
+    "Phytochemical name": "Terpinyl isobutyrate",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY015953",
+    "Phytochemical name": "3,7-Dimethyloctan-3-ol",
+    "References": "DOI:10.1002/ffj.1772",
+    "query_used": "boswellia serrata"
+  },
+  {
+    "Indian medicinal plant": "Boswellia serrata",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY016906",
+    "Phytochemical name": "3-Hydroxytirucalla-8,24-diene-21-oic acid",
+    "References": "The Ayurvedic Pharmacopoeia of India Part-1 Volume-9",
+    "query_used": "boswellia serrata"
+  }
+]

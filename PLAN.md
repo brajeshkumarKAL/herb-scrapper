@@ -83,6 +83,26 @@ This project currently stores scraped rows with field names that differ from the
    - `scrape_herb()` should collect results per query (main name and each synonym) without merging.
    - `scrape_all_herbs()` should return a dict of `{query: associations}` instead of aggregated data.
 
+#### Synonym Search Strategy (≤20 Results Threshold)
+The scraper implements a conditional synonym search strategy to balance data completeness with efficiency:
+
+**Why Search Synonyms When Main Name Returns ≤20 Results**
+- **Indicates incomplete coverage**: If the main herb name returns 0-20 phytochemicals, the database likely lacks comprehensive records under the primary name alone.
+- **Captures alternative naming data**: Plants have multiple recognized names across languages and regions. For example, "Fever nut" might return different results than "Wrightia tinctoria" (the scientific name).
+- **Unlocks additional records**: Different query names hit different database entries that reference the same plant by different identifiers.
+
+**Why Skip Synonyms When Main Name Returns >20 Results**
+- **Indicates good coverage**: 20+ results suggest the main name is well-documented and comprehensive.
+- **Reduces redundant data**: The same phytochemical associations often appear under multiple names, creating duplicates and wasted effort.
+- **Optimizes performance**: Each query requires browser navigation, searching, and pagination. Skipping unnecessary synonym searches saves time and reduces website load.
+- **Practical resource management**: With 1006 herbs and multiple synonyms each, exhaustive searching would be prohibitively slow.
+
+**Threshold Rationale**
+The 20-result threshold is a practical balance:
+- Low enough to trigger synonym searches for under-documented plants
+- High enough to indicate the main name is reasonably comprehensive
+- Can be tuned based on analysis needs (lower threshold = more exhaustive but slower; higher threshold = faster but potentially incomplete)
+
 3. **Update Data Processor**: Refactor `processor/data_processor.py`.
    - Remove deduplication logic since we're storing per query.
    - Change `process_data()` to accept the new dict format and prepare for storage.
@@ -161,3 +181,163 @@ This project currently stores scraped rows with field names that differ from the
 - No data loss compared to current CSV output.
 - Pipeline runs without errors and maintains performance.
 - Files are human-readable and suitable for further analysis.
+
+## Plan 2: Controlled Query Batching and Idempotent Resume
+### Problem
+Running all 1006 herb queries in one go is too slow and may require multiple sessions. The scraper must support running a fixed number of queries per execution and skip the already completed queries on subsequent runs.
+
+### Goals
+- Add a `max_queries_per_run` configuration option.
+- Process a limited batch of pending queries each execution.
+- Persist progress so completed queries are skipped in the next run.
+- Keep behavior idempotent: repeated runs must not rerun finished queries.
+
+### Design Overview
+1. **Stable query ordering**
+   - Build a deterministic ordered list of query strings from the input file.
+   - Use the same order every run so indexing remains consistent.
+   - Treat each query string independently, including synonyms.
+
+2. **Configuration settings**
+   - Add `max_queries_per_run` to `config/settings.py`.
+   - Add `query_progress_file` to store checkpoint data.
+   - Optionally add `run_all_pending` or use `0` / `None` to mean process all remaining queries.
+
+3. **Progress persistence**
+   - Use a JSON checkpoint file such as `data/output/query_progress.json`.
+   - Store completed query identifiers and/or the last completed index.
+   - Example shape:
+     ```json
+     {
+       "completed_queries": ["terminalia chebula", "phyllanthus emblica"],
+       "last_completed_index": 2
+     }
+     ```
+
+4. **Query selection workflow**
+   - On startup, load the input queries and the progress checkpoint.
+   - Compute pending queries by removing `completed_queries` from the ordered list.
+   - Select the first `max_queries_per_run` pending queries for the current execution.
+   - If no pending queries remain, exit cleanly.
+
+5. **Idempotent completion logic**
+   - After a query is scraped and saved successfully, mark it as completed in the checkpoint.
+   - Persist the checkpoint after each successful query or after each batch.
+   - If a query fails, do not mark it completed so it will be retried on the next run.
+   - Use output file existence as a secondary safeguard: if a query already has a JSON file, treat it as completed.
+
+6. **Resume behavior**
+   - On the next run, read the checkpoint and skip any already completed queries.
+   - Start processing at the next pending query instead of repeating earlier work.
+   - This ensures run 1 processes queries 1-5, run 2 processes 6-10, etc.
+
+### Implementation Steps
+1. **Extend configuration**
+   - Add `max_queries_per_run` and `query_progress_file` to `config/settings.py`.
+   - Add a comment describing that `0` / `None` means run all remaining queries.
+
+2. **Query lifecycle management**
+   - Add a helper in `processor/data_loader.py` or a new scheduler module.
+   - Implement `load_ordered_queries()` to extract query strings in a stable order.
+   - Implement `load_completed_queries(progress_file)` to read the checkpoint safely.
+   - Implement `save_completed_queries(progress_file, completed_queries)`.
+
+3. **Batch selection**
+   - In `main.py`, determine `pending_queries = ordered_queries - completed_queries`.
+   - Slice `pending_queries[:max_queries_per_run]` to get the current batch.
+   - Log the start index, end index, and total pending count.
+
+4. **Execution and checkpoint updates**
+   - Run scraping for the selected batch only.
+   - Save each query's JSON file as normal.
+   - After successful save, append the query to `completed_queries` and persist the checkpoint.
+   - Keep a durable record so partial runs are safe.
+
+5. **Safe restart and recovery**
+   - If the progress file is missing, infer completed queries from existing JSON files as a fallback.
+   - If a query JSON file exists but the query is not in the checkpoint, optionally add it to the checkpoint before starting.
+   - Avoid re-running queries that already produced output.
+
+6. **Reporting and logging**
+   - Print or log batch progress and remaining query count.
+   - Report queries skipped due to completion.
+   - Report any failures so the user can rerun just remaining queries.
+
+### Testing and Validation
+1. **Unit tests**
+   - Test `load_ordered_queries()` returns stable ordering.
+   - Test `load_completed_queries()` and `save_completed_queries()` handle missing and malformed checkpoint files.
+   - Test the batch selection logic for `max_queries_per_run`.
+   - Test idempotence by simulating a run with completed queries.
+
+2. **Integration test**
+   - Run the scraper on a small sample list of 10 queries with `max_queries_per_run=3`.
+   - Verify run 1 processes queries 1-3, run 2 processes 4-6, run 3 processes 7-9, and run 4 processes query 10.
+   - Confirm completed queries are skipped on each subsequent execution.
+
+3. **Edge cases**
+   - Verify behavior when `max_queries_per_run` is larger than remaining pending queries.
+   - Verify behavior when all queries are already completed.
+
+## Plan 3: Save Empty Result Files for No-Result Herbs
+### Problem
+When a herb search returns zero matches on the website, the current pipeline skips writing any file. This makes it hard to distinguish between herbs that were never processed and herbs that were processed with no results.
+
+### Goals
+- Always create a JSON file for each herb processed, even if the search returned no results.
+- Represent no-result herbs with an empty array or explicit empty-result payload.
+- Preserve the existing filename strategy and keep results easy to audit.
+
+### Design Overview
+1. **Empty file representation**
+   - Use an empty JSON array `[]` for herbs with no returned associations.
+   - Optionally include metadata in a wrapper object if more context is needed later.
+
+2. **Create file per processed herb**
+   - After scraping a herb (main name and synonyms), write a JSON file even when `processed_data` is empty.
+   - Ensure the filename still reflects the herb query used.
+   - An empty file means the herb was searched and processed, but no phytochemical matches were found and even no match for all of its synonyms as well.
+
+3. **Distinguish between no results and failures**
+   - If scraping succeeds but returns no rows, save an empty file.
+   - If scraping fails due to an error, do not mark the herb completed and do not create an empty result file.
+   - Log the difference clearly in `logs/herb_processing.log`.
+
+4. **Progress and resume integration**
+   - Mark a herb as completed once its file is written, even if empty.
+   - This prevents repeated retries for herbs that legitimately have no results.
+
+### Implementation Steps
+1. **Update scraper/save pipeline**
+   - After `process_data()` returns an empty dict for a herb, create a JSON file with `[]` as content.
+   - Use the same normalized filename method used for result files.
+
+2. **Adjust logging**
+   - Log `Saved 0 associations for herb X` or `Saved empty file for herb X` when no results are found.
+   - Keep the log entry format consistent with non-empty saves.
+
+3. **Update progress logic**
+   - Treat an empty-result file as a successful completion.
+   - Store herb name in `completed_herbs` so the herb is skipped on the next run.
+
+4. **Test and validate**
+   - Verify run behavior for a no-result herb creates a file like `uraria_picta.json`.
+   - Confirm the file is valid JSON and contains `[]`.
+   - Confirm the herb is marked complete in `query_progress_file`.
+
+### Documentation
+- Document the new empty-result file behavior in `README.md` and `PLAN.md`.
+- Explain that empty files mean “searched and found no results,” not “not processed yet.”
+   - Verify failed queries remain pending after a rerun.
+
+### Documentation
+- Update `README.md` with the new batching and resume options.
+- Document how to set `max_queries_per_run` and how progress is stored.
+- Explain the idempotent retry behavior for repeated runs.
+
+### Success Criteria for Batching
+- The scraper processes at most `max_queries_per_run` pending queries per execution.
+- Completed queries are skipped on subsequent runs.
+- Progress persists across executions in a checkpoint file.
+- Partial or failed runs do not corrupt completed state.
+- The user can run the scraper repeatedly until all queries are finished, without reprocessing already completed queries.

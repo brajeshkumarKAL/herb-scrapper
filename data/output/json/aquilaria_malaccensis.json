@@ -1,0 +1,642 @@
+[
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY011946",
+    "Phytochemical name": "Agarospirol",
+    "References": "ISBN:9788172360481",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY000084",
+    "Phytochemical name": "2-Heptanol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY001496",
+    "Phytochemical name": "3H-Naphtho(1,8-bc)furan-3,8(4H)-dione, 5,5a,6,7-tetrahydro-7-methyl-5-(1-methylethyl)-, (5R,5aR,7S)-",
+    "References": "ISBN:9788172360481",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY001507",
+    "Phytochemical name": "Cyclocolorenone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY002133",
+    "Phytochemical name": "2-Hexanol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY002249",
+    "Phytochemical name": "Agarol",
+    "References": "ISBN:9788172360481",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY002753",
+    "Phytochemical name": "Liriodenine",
+    "References": "ISBN:9770972795006, ISBN:9788172360481",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY003113",
+    "Phytochemical name": "p-Cresol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY003179",
+    "Phytochemical name": "3-Octanone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY003495",
+    "Phytochemical name": "2-Methoxy-4-vinylphenol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY003525",
+    "Phytochemical name": "Nonanal",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY003589",
+    "Phytochemical name": "acorenone B",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY004121",
+    "Phytochemical name": "2-Heptanone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY005516",
+    "Phytochemical name": "Rotundone",
+    "References": "ISBN:9788172362089",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY005811",
+    "Phytochemical name": "2-Pentylfuran",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006032",
+    "Phytochemical name": "2-Ethylhexanol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006148",
+    "Phytochemical name": "4-Hydroxyacetophenone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006177",
+    "Phytochemical name": "Methyl geranate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006347",
+    "Phytochemical name": "Hexanal",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006619",
+    "Phytochemical name": "Salicylaldehyde",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006668",
+    "Phytochemical name": "Isophorone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006947",
+    "Phytochemical name": "1-Decanol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006952",
+    "Phytochemical name": "m-Xylene",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006970",
+    "Phytochemical name": "Decanal",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007039",
+    "Phytochemical name": "Acetophenone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007041",
+    "Phytochemical name": "Furfural",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007171",
+    "Phytochemical name": "1-Hexanol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007186",
+    "Phytochemical name": "Heptanal",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007200",
+    "Phytochemical name": "2-Octanone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007302",
+    "Phytochemical name": "Hexyl acetate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007620",
+    "Phytochemical name": "1-Octanol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007713",
+    "Phytochemical name": "Butyl butyrate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY008856",
+    "Phytochemical name": "beta-Eudesmol acetate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY008872",
+    "Phytochemical name": "Hexyl formate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY008936",
+    "Phytochemical name": "alpha-Guaiene",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY008946",
+    "Phytochemical name": "delta-Guaiene",
+    "References": "DOI:10.1080/10412905.2011.9700468, ISBN:9788172362089",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY008989",
+    "Phytochemical name": "Dihydrokaranone",
+    "References": "ISBN:9788172362089",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY009356",
+    "Phytochemical name": "4-Hydroxybenzaldehyde",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY009642",
+    "Phytochemical name": "2-Nonanone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY009686",
+    "Phytochemical name": "Agarotetrol",
+    "References": "ISBN:9788172360481",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY009751",
+    "Phytochemical name": "1-Heptanol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY009940",
+    "Phytochemical name": "3-Methylcyclohexanone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY009946",
+    "Phytochemical name": "Benzaldehyde",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY010072",
+    "Phytochemical name": "Eucalyptol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY010080",
+    "Phytochemical name": "beta-Elemene",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY010952",
+    "Phytochemical name": "Isodihydroagarofuran",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011101",
+    "Phytochemical name": "alpha-Agarofuran",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011521",
+    "Phytochemical name": "2-Undecanone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011590",
+    "Phytochemical name": "d-Borneol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011598",
+    "Phytochemical name": "Cyperotundone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011938",
+    "Phytochemical name": "gamma-Eudesmol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011946",
+    "Phytochemical name": "Agarospirol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY012036",
+    "Phytochemical name": "Camphor",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY012070",
+    "Phytochemical name": "o-Xylene",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY012097",
+    "Phytochemical name": "Methyl octanoate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY013309",
+    "Phytochemical name": "Valerianol",
+    "References": "DOI:10.1080/10412905.2011.9700468, ISBN:9788172362089",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY013578",
+    "Phytochemical name": "Epoxybulnesene",
+    "References": "DOI:10.1080/10412905.2011.9700468, ISBN:9788172362089",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY014942",
+    "Phytochemical name": "Bicyclo[2.2.1]heptan-2-ol, 1,7,7-trimethyl-, formate, (1R,2R,4R)-rel-",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY014988",
+    "Phytochemical name": "Limonene",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY015003",
+    "Phytochemical name": "Menthol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY015107",
+    "Phytochemical name": "2-[(2R,8R,8aS)-8,8a-dimethyl-1,2,3,4,6,7,8,8a-octahydronaphthalen-2-yl]propan-2-ol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY015411",
+    "Phytochemical name": "5-Methylheptan-3-one",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY015835",
+    "Phytochemical name": "Methyl hexanoate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY015871",
+    "Phytochemical name": "Octyl formate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016065",
+    "Phytochemical name": "3-Hepten-2-one",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016221",
+    "Phytochemical name": "2-Butylthiophene",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016411",
+    "Phytochemical name": "1-(4-Hydroxy-3-methoxyphenyl)-2-butanone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016442",
+    "Phytochemical name": "Benzylacetone",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016495",
+    "Phytochemical name": "9,11-Eremophiladien-8-one",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016507",
+    "Phytochemical name": "Allyl butyrate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016671",
+    "Phytochemical name": "2-(Diphenylphosphorothioyl)phenyl diphenylphosphinate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016744",
+    "Phytochemical name": "Methyl cyclohexanecarboxylate",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016847",
+    "Phytochemical name": "Selina-3,11-dien-14-al",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016848",
+    "Phytochemical name": "Selina-3,11-dien-14-ol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016849",
+    "Phytochemical name": "Selina-3,11-dien-9-ol",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016850",
+    "Phytochemical name": "Selina-3,11-dien-9-one",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY016851",
+    "Phytochemical name": "Selina-4,11-dien-14-al",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY017933",
+    "Phytochemical name": "Dehydrojinkoh-eremol",
+    "References": "DOI:10.1080/10412905.2011.9700468, ISBN:9788172362089",
+    "query_used": "aquilaria malaccensis"
+  },
+  {
+    "Indian medicinal plant": "Aquilaria malaccensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY017934",
+    "Phytochemical name": "Nor-ketoagarofuran",
+    "References": "DOI:10.1080/10412905.2011.9700468",
+    "query_used": "aquilaria malaccensis"
+  }
+]

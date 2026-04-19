@@ -1,0 +1,5498 @@
+[
+  {
+    "Indian medicinal plant": "Asparagus aethiopicus",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003681",
+    "Phytochemical name": "Diosgenin",
+    "References": "ISBN:9788172360481",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Asparagus aethiopicus",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY013468",
+    "Phytochemical name": "Sprengerinin C",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Asparagus aethiopicus",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY013642",
+    "Phytochemical name": "Sprengerinin A",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Bellis perennis",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY005454",
+    "Phytochemical name": "(4aR,5R,6aR,6aS,6bR,9R,10R,11S,12aR,14bR)-5,10,11-trihydroxy-9-(hydroxymethyl)-2,2,6a,6b,9,12a-hexamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid",
+    "References": "ISBN:9788172362089",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003977",
+    "Phytochemical name": "(-)-beta-Bourbonene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003982",
+    "Phytochemical name": "gamma-Terpinene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005618",
+    "Phytochemical name": "Germacrene B",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006660",
+    "Phytochemical name": "cis-Lanceol",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010080",
+    "Phytochemical name": "beta-Elemene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011392",
+    "Phytochemical name": "3-Carene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011396",
+    "Phytochemical name": "4-Carvomenthenol",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011552",
+    "Phytochemical name": "(1R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hex-2-ene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011586",
+    "Phytochemical name": "(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011599",
+    "Phytochemical name": "Terpinolene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011659",
+    "Phytochemical name": "alpha-Muurolene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011660",
+    "Phytochemical name": "(+)-alpha-Cadinene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011793",
+    "Phytochemical name": "(+)-gamma-Cadinene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011957",
+    "Phytochemical name": "(+)-delta-Cadinene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011965",
+    "Phytochemical name": "(+)-beta-Phellandrene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012160",
+    "Phytochemical name": "alpha-Terpineol",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012165",
+    "Phytochemical name": "Sabinene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012586",
+    "Phytochemical name": "(-)-alpha-Cadinol",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012667",
+    "Phytochemical name": "Caryophyllene oxide",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012921",
+    "Phytochemical name": "gamma-Elemene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014811",
+    "Phytochemical name": "alpha-Phellandrene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014986",
+    "Phytochemical name": "Ledol",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015123",
+    "Phytochemical name": "alpha-Copaene",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Canarium bengalense",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015128",
+    "Phytochemical name": "T-Muurolol",
+    "References": "DOI:10.1080/0972-060x.2004.10643363",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Coffea benghalensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002965",
+    "Phytochemical name": "Caffeine",
+    "References": "ISBN:9788172362133",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Coffea benghalensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY005758",
+    "Phytochemical name": "Theophylline",
+    "References": "ISBN:9788172362133",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Coffea benghalensis",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006394",
+    "Phytochemical name": "Theobromine",
+    "References": "ISBN:9788172362133",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Engelhardtia spicata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004271",
+    "Phytochemical name": "Betulin",
+    "References": "ISBN:9770972795006, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Engelhardtia spicata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011476",
+    "Phytochemical name": "2,6-Dimethoxy-1,4-benzoquinone",
+    "References": "ISBN:9770972795006, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Engelhardtia spicata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012003",
+    "Phytochemical name": "Betulinic acid",
+    "References": "ISBN:9770972795006, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Engelhardtia spicata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9770972795006, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Engelhardtia spicata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Engelhardtia spicata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014838",
+    "Phytochemical name": "Daucosterol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Engelhardtia spicata",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015072",
+    "Phytochemical name": "beta-Sitosterol-beta-D-glucoside",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Erysimum cheiri",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Erysimum cheiri",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY005543",
+    "Phytochemical name": "Rhamnetin",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Erysimum cheiri",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY010565",
+    "Phytochemical name": "Vincetoxicoside B",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Erysimum cheiri",
+    "Plant part": "plant cells/culture",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9788172362089",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Erysimum cheiri",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY008530",
+    "Phytochemical name": "Glucobipindogulomethyloside",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Erysimum cheiri",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY008534",
+    "Phytochemical name": "Glucoerysimoside",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Erysimum cheiri",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY010270",
+    "Phytochemical name": "Cheirotoxin",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Erysimum cheiri",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY015021",
+    "Phytochemical name": "Erysimoside",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Erysimum cheiri",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002588",
+    "Phytochemical name": "Flavylium",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788172363130",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003535",
+    "Phytochemical name": "Leucopelargonidin",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY005737",
+    "Phytochemical name": "20-Tetratriacontene-2-one",
+    "References": "ISBN:9770972795006, ISBN:9788172363130",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006221",
+    "Phytochemical name": "Tiglic acid",
+    "References": "ISBN:9788172363130",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006378",
+    "Phytochemical name": "Pentatriacontan-5-one",
+    "References": "ISBN:9770972795006, ISBN:9788172363130, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011611",
+    "Phytochemical name": "Leucocianidol",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011885",
+    "Phytochemical name": "Leucodelphidin",
+    "References": "ISBN:9770972795006, ISBN:9788172360481",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788172360481",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY002588",
+    "Phytochemical name": "Flavylium",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012334",
+    "Phytochemical name": "Glutathione",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000295",
+    "Phytochemical name": "Paeonol",
+    "References": "ISBN:9788187748090",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011688",
+    "Phytochemical name": "Friedelin",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172360481, ISBN:9788172363130, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012869",
+    "Phytochemical name": "Orlandin",
+    "References": "ISBN:9770972795006, ISBN:9788187748090",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY013979",
+    "Phytochemical name": "1-(4-Hydroxy-2-methoxyphenyl)ethanone",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172360481, ISBN:9788172362300, ISBN:9788172363130, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014935",
+    "Phytochemical name": "Hyperoside",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172360481, ISBN:9788172362300, ISBN:9788172363130, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015047",
+    "Phytochemical name": "Rutin",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172360481, ISBN:9788172363130, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011654",
+    "Phytochemical name": "alpha1-Sitosterol",
+    "References": "The Unani Pharmacopoeia of India Part-1 Volume-6",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011688",
+    "Phytochemical name": "Friedelin",
+    "References": "The Unani Pharmacopoeia of India Part-1 Volume-6",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY004100",
+    "Phytochemical name": "Calendol",
+    "References": "ISBN:9788172360481, ISBN:9788172363130",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Ficus benghalensis",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006221",
+    "Phytochemical name": "Tiglic acid",
+    "References": "ISBN:9788172360481",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Heracleum sprengelianum",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9788172362300",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Heracleum sprengelianum",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014838",
+    "Phytochemical name": "Daucosterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006972",
+    "Phytochemical name": "1-Octacosanol",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011619",
+    "Phytochemical name": "alpha-Amyrin",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011688",
+    "Phytochemical name": "Friedelin",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011741",
+    "Phytochemical name": "Tannic acid",
+    "References": "ISBN:9788172360818",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011859",
+    "Phytochemical name": "Epifriedelanol",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014838",
+    "Phytochemical name": "Daucosterol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015072",
+    "Phytochemical name": "beta-Sitosterol-beta-D-glucoside",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006389",
+    "Phytochemical name": "Hiptagin",
+    "References": "ISBN:9780387706375, ISBN:9788172361266",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012744",
+    "Phytochemical name": "Mangiferin",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788171360536, ISBN:9788172360481, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY006972",
+    "Phytochemical name": "1-Octacosanol",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY011619",
+    "Phytochemical name": "alpha-Amyrin",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY011688",
+    "Phytochemical name": "Friedelin",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY011859",
+    "Phytochemical name": "Epifriedelanol",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY014838",
+    "Phytochemical name": "Daucosterol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Hiptage benghalensis",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY015072",
+    "Phytochemical name": "beta-Sitosterol-beta-D-glucoside",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Indigofera arrecta",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Indigofera arrecta",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006020",
+    "Phytochemical name": "Kaempferitrin",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Indigofera arrecta",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010909",
+    "Phytochemical name": "Flavonol 3-O-D-glucoside",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Indigofera arrecta",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015056",
+    "Phytochemical name": "L-Rhamnose",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003616",
+    "Phytochemical name": "Bicyclogermacrene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003977",
+    "Phytochemical name": "(-)-beta-Bourbonene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003982",
+    "Phytochemical name": "gamma-Terpinene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006965",
+    "Phytochemical name": "alpha,alpha-Dimethyl-4-methylenecyclohexanemethanol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007039",
+    "Phytochemical name": "Acetophenone",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007840",
+    "Phytochemical name": "Spathulenol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009946",
+    "Phytochemical name": "Benzaldehyde",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010072",
+    "Phytochemical name": "Eucalyptol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010080",
+    "Phytochemical name": "beta-Elemene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011396",
+    "Phytochemical name": "4-Carvomenthenol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011552",
+    "Phytochemical name": "(1R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hex-2-ene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011586",
+    "Phytochemical name": "(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011588",
+    "Phytochemical name": "cis-3-Hexen-1-ol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011643",
+    "Phytochemical name": "alpha-Terpinene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011660",
+    "Phytochemical name": "(+)-alpha-Cadinene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011793",
+    "Phytochemical name": "(+)-gamma-Cadinene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012160",
+    "Phytochemical name": "alpha-Terpineol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012165",
+    "Phytochemical name": "Sabinene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012586",
+    "Phytochemical name": "(-)-alpha-Cadinol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012587",
+    "Phytochemical name": "tau-Cadinol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012667",
+    "Phytochemical name": "Caryophyllene oxide",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012739",
+    "Phytochemical name": "(Z)-beta-Ocimene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY013133",
+    "Phytochemical name": "(Z)-p-Menth-2-en-1-ol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY013815",
+    "Phytochemical name": "1-Methylene-4-(1-methylvinyl)cyclohexane",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014806",
+    "Phytochemical name": "Caswell No. 264AB",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014835",
+    "Phytochemical name": "(E)-beta-ocimene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014852",
+    "Phytochemical name": "Camphene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014923",
+    "Phytochemical name": "Geraniol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014988",
+    "Phytochemical name": "Limonene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015022",
+    "Phytochemical name": "Nerolidol",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015095",
+    "Phytochemical name": "2-Cyclohexen-1-ol, 1-methyl-4-(1-methylethyl)-, trans-",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Meriandra dianthera",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015123",
+    "Phytochemical name": "alpha-Copaene",
+    "References": "DOI:10.1080/10412905.2009.9700097",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY001912",
+    "Phytochemical name": "Cubebin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002667",
+    "Phytochemical name": "Pentadecanoic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004039",
+    "Phytochemical name": "beta-Amyrin acetate",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY005471",
+    "Phytochemical name": "Myricetin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006951",
+    "Phytochemical name": "Eicosane",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY007426",
+    "Phytochemical name": "Taraxerone",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042053, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY007661",
+    "Phytochemical name": "(4R)-2beta,3beta,23-trihydroxy-oleana-5,12-dien-28-oic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY007903",
+    "Phytochemical name": "Dibutyl phthalate",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011576",
+    "Phytochemical name": "alpha-Spinasterol",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788171360536, ISBN:9788172361150, ISBN:9788172362461, ISBN:9788185042053, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011677",
+    "Phytochemical name": "Taraxerol",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788171360536, ISBN:9788172361150, ISBN:9788172362461, ISBN:9788185042053, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011805",
+    "Phytochemical name": "Quercitol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011880",
+    "Phytochemical name": "Ursolic acid",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012003",
+    "Phytochemical name": "Betulinic acid",
+    "References": "ISBN:9788171360536, ISBN:9788185042053, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9770972795006, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012586",
+    "Phytochemical name": "(-)-alpha-Cadinol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012745",
+    "Phytochemical name": "Myricitrin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014431",
+    "Phytochemical name": "Sodium oleanolate",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014925",
+    "Phytochemical name": "beta-D-Glucose",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015054",
+    "Phytochemical name": "Quercitrin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015072",
+    "Phytochemical name": "beta-Sitosterol-beta-D-glucoside",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY000308",
+    "Phytochemical name": "Hexadecane",
+    "References": "DOI:10.1080/10412905.1994.9698425, ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY001246",
+    "Phytochemical name": "Carvacrol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY001548",
+    "Phytochemical name": "Geranylacetone",
+    "References": "DOI:10.1080/10412905.1994.9698425, ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY002875",
+    "Phytochemical name": "Undecane",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY002915",
+    "Phytochemical name": "Benzyl Alcohol",
+    "References": "DOI:10.1080/10412905.1994.9698425, ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY002939",
+    "Phytochemical name": "Ethyl 2-methylbutyrate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003050",
+    "Phytochemical name": "Methyl salicylate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003113",
+    "Phytochemical name": "p-Cresol",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003340",
+    "Phytochemical name": "Acetoin",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003482",
+    "Phytochemical name": "4-Methoxybenzaldehyde",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003512",
+    "Phytochemical name": "Ethyl hexanoate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003525",
+    "Phytochemical name": "Nonanal",
+    "References": "DOI:10.1080/10412905.1994.9698425, ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003536",
+    "Phytochemical name": "Eugenol",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004184",
+    "Phytochemical name": "Cinnamyl acetate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004889",
+    "Phytochemical name": "Cinnamyl alcohol",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY005692",
+    "Phytochemical name": "4-Allyl-2,6-dimethoxyphenol",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006003",
+    "Phytochemical name": "Phenethyl acetate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006029",
+    "Phytochemical name": "4-Methoxybenzyl alcohol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006033",
+    "Phytochemical name": "Ethyl butyrate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006279",
+    "Phytochemical name": "2-Phenylethanol",
+    "References": "DOI:10.1080/10412905.1994.9698425, ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006347",
+    "Phytochemical name": "Hexanal",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006428",
+    "Phytochemical name": "(R)-Lavandulol",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006469",
+    "Phytochemical name": "2-Methyl-2-butanol",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006574",
+    "Phytochemical name": "Ethyl benzoate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006700",
+    "Phytochemical name": "Methyl benzoate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006944",
+    "Phytochemical name": "Estragole",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006971",
+    "Phytochemical name": "Methyl palmitate",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006972",
+    "Phytochemical name": "1-Octacosanol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY007186",
+    "Phytochemical name": "Heptanal",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY007193",
+    "Phytochemical name": "Ethyl stearate",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY007302",
+    "Phytochemical name": "Hexyl acetate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY008065",
+    "Phytochemical name": "Ethyl dodecanoate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY008972",
+    "Phytochemical name": "Butyl acetate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY008991",
+    "Phytochemical name": "Benzyl acetate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009356",
+    "Phytochemical name": "4-Hydroxybenzaldehyde",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009382",
+    "Phytochemical name": "Heneicosane",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009389",
+    "Phytochemical name": "Pentadecane",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009419",
+    "Phytochemical name": "Tridecane",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009624",
+    "Phytochemical name": "Ethyl palmitate",
+    "References": "DOI:10.1080/10412905.1994.9698425, ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009751",
+    "Phytochemical name": "1-Heptanol",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009777",
+    "Phytochemical name": "Benzyl butyrate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009862",
+    "Phytochemical name": "Methyl 4-methoxybenzoate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009946",
+    "Phytochemical name": "Benzaldehyde",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009962",
+    "Phytochemical name": "Ethyl tetradecanoate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009973",
+    "Phytochemical name": "Ethyl valerate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY010000",
+    "Phytochemical name": "Dodecane",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY010097",
+    "Phytochemical name": "Benzyl benzoate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY010841",
+    "Phytochemical name": "Ethyl linoleate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY010995",
+    "Phytochemical name": "Toluene",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011029",
+    "Phytochemical name": "Phenethyl benzoate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011033",
+    "Phytochemical name": "Phenethyl isovalerate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011215",
+    "Phytochemical name": "Tetradecane",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011562",
+    "Phytochemical name": "2-Hexenal",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011588",
+    "Phytochemical name": "cis-3-Hexen-1-ol",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011646",
+    "Phytochemical name": "Cynaroside",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011714",
+    "Phytochemical name": "Methyl cinnamate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011729",
+    "Phytochemical name": "Mannitol",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788172361150, ISBN:9788172362461, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011763",
+    "Phytochemical name": "Anethole",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011804",
+    "Phytochemical name": "cis-3-Hexenyl acetate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011817",
+    "Phytochemical name": "alpha-Farnesene",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011844",
+    "Phytochemical name": "Chlorogenic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011880",
+    "Phytochemical name": "Ursolic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011882",
+    "Phytochemical name": "Cinnamaldehyde",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011883",
+    "Phytochemical name": "3,4-Dihydroxybenzoic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011933",
+    "Phytochemical name": "Caffeic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012070",
+    "Phytochemical name": "o-Xylene",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012658",
+    "Phytochemical name": "Methyl palmitoleate",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014835",
+    "Phytochemical name": "(E)-beta-ocimene",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172361150, ISBN:9788172362461, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014925",
+    "Phytochemical name": "beta-D-Glucose",
+    "References": "ISBN:9788172361150, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY015022",
+    "Phytochemical name": "Nerolidol",
+    "References": "DOI:10.1080/10412905.1994.9698425, ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY015047",
+    "Phytochemical name": "Rutin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY015072",
+    "Phytochemical name": "beta-Sitosterol-beta-D-glucoside",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY015507",
+    "Phytochemical name": "Benzyl tiglate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY015613",
+    "Phytochemical name": "Diethyl succinate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY015660",
+    "Phytochemical name": "Ethyl decanoate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY016615",
+    "Phytochemical name": "Diethyl malonate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY016616",
+    "Phytochemical name": "Diethyl oxalate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY016804",
+    "Phytochemical name": "1-Methoxy-4-methylbenzene",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY017376",
+    "Phytochemical name": "Ethyl (E)-hept-4-enoate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY017606",
+    "Phytochemical name": "3-Hydroxy-4-phenylbutan-2-one",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY017612",
+    "Phytochemical name": "1-Phenylbutane-2,3-dione",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY017688",
+    "Phytochemical name": "4-Methoxyphenethyl alcohol",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY017732",
+    "Phytochemical name": "Phenethyl butyrate",
+    "References": "DOI:10.1080/10412905.1994.9698425",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY000701",
+    "Phytochemical name": "3-[(1S,4aS,4bR,7R,8aS,10aS)-4b,7,8a,10a-tetramethyl-7-(4-methylpent-3-enyl)-2-propan-2-ylidene-3,4,4a,5,6,8,9,10-octahydro-1H-phenanthren-1-yl]propan-1-ol",
+    "References": "ISBN:9788171360536",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788171360536, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011805",
+    "Phytochemical name": "Quercitol",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011880",
+    "Phytochemical name": "Ursolic acid",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011967",
+    "Phytochemical name": "Taxifolin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788171360536, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014893",
+    "Phytochemical name": "D-Glucose",
+    "References": "ISBN:9788172361150, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014925",
+    "Phytochemical name": "beta-D-Glucose",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9770972795006, ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005471",
+    "Phytochemical name": "Myricetin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007661",
+    "Phytochemical name": "(4R)-2beta,3beta,23-trihydroxy-oleana-5,12-dien-28-oic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008910",
+    "Phytochemical name": "Hentriacontane",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011574",
+    "Phytochemical name": "Myricetin 3-galactoside",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011677",
+    "Phytochemical name": "Taraxerol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011707",
+    "Phytochemical name": "beta-Carotene",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011805",
+    "Phytochemical name": "Quercitol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012745",
+    "Phytochemical name": "Myricitrin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014893",
+    "Phytochemical name": "D-Glucose",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015017",
+    "Phytochemical name": "Myricetin 3-rhamnoside",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008910",
+    "Phytochemical name": "Hentriacontane",
+    "References": "ISBN:9788171360536",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011576",
+    "Phytochemical name": "alpha-Spinasterol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011707",
+    "Phytochemical name": "beta-Carotene",
+    "References": "ISBN:9788171360536",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014991",
+    "Phytochemical name": "Lupeol acetate",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015072",
+    "Phytochemical name": "beta-Sitosterol-beta-D-glucoside",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000060",
+    "Phytochemical name": "Myristic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000701",
+    "Phytochemical name": "3-[(1S,4aS,4bR,7R,8aS,10aS)-4b,7,8a,10a-tetramethyl-7-(4-methylpent-3-enyl)-2-propan-2-ylidene-3,4,4a,5,6,8,9,10-octahydro-1H-phenanthren-1-yl]propan-1-ol",
+    "References": "ISBN:9788171360536",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002139",
+    "Phytochemical name": "(-)-Butyrospermol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002320",
+    "Phytochemical name": "Mimusopsic acid",
+    "References": "ISBN:9770972795006, ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002409",
+    "Phytochemical name": "(2S,3S,4S,5R,6R)-6-[[(2S,3R,4R,4aR,5R,6aR,6bS,8aS,12aS,14aR,14bR)-8a-[(2S,3R,4S,5S)-3-[(2S,3R,4S,5R,6S)-5-[(2S,3R,4S,5R)-3,5-dihydroxy-4-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-3,4-dihydroxy-6-methyloxan-2-yl]oxy-4,5-dihydroxyoxan-2-yl]oxycarbonyl-2,5-dihydroxy-4-(hydroxymethyl)-4,6a,6b,11,11,14b-hexamethyl-1,2,3,4a,5,6,7,8,9,10,12,12a,14,14a-tetradecahydropicen-3-yl]oxy]-3,4,5-trihydroxyoxane-2-carboxylic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003016",
+    "Phytochemical name": "Lauric acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003104",
+    "Phytochemical name": "Decanoic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003306",
+    "Phytochemical name": "Mi-saponin A",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003661",
+    "Phytochemical name": "24-Methylenecholesterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003866",
+    "Phytochemical name": "Protobassic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004100",
+    "Phytochemical name": "Calendol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9770972795006, ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006300",
+    "Phytochemical name": "Cholesterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007212",
+    "Phytochemical name": "Docosanoic acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007245",
+    "Phytochemical name": "Mimuscopic acid",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007661",
+    "Phytochemical name": "(4R)-2beta,3beta,23-trihydroxy-oleana-5,12-dien-28-oic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011393",
+    "Phytochemical name": "24-Methylenecycloartanol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011394",
+    "Phytochemical name": "Arachidic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011545",
+    "Phytochemical name": "delta7-Avenasterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011576",
+    "Phytochemical name": "alpha-Spinasterol",
+    "References": "ISBN:9770972795006, ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011578",
+    "Phytochemical name": "24-Ethyllathosterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011613",
+    "Phytochemical name": "Fucosterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011619",
+    "Phytochemical name": "alpha-Amyrin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011642",
+    "Phytochemical name": "Cycloartenol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011677",
+    "Phytochemical name": "Taraxerol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011756",
+    "Phytochemical name": "Eburicol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9770972795006, ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011805",
+    "Phytochemical name": "Quercitol",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011880",
+    "Phytochemical name": "Ursolic acid",
+    "References": "ISBN:9788171360536, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011923",
+    "Phytochemical name": "Erucic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011967",
+    "Phytochemical name": "Taxifolin",
+    "References": "ISBN:9770972795006, ISBN:9788172361150, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012402",
+    "Phytochemical name": "Campesterol",
+    "References": "ISBN:9770972795006, ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012464",
+    "Phytochemical name": "Clionasterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012723",
+    "Phytochemical name": "Linolenic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY013622",
+    "Phytochemical name": "Elengin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172361150, ISBN:9788172362461, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9770972795006, ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014893",
+    "Phytochemical name": "D-Glucose",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014925",
+    "Phytochemical name": "beta-D-Glucose",
+    "References": "ISBN:9788172361150, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY015072",
+    "Phytochemical name": "beta-Sitosterol-beta-D-glucoside",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY015081",
+    "Phytochemical name": "Taraxasterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007224",
+    "Phytochemical name": "Hederagenin",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY008910",
+    "Phytochemical name": "Hentriacontane",
+    "References": "ISBN:9788171360536",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011576",
+    "Phytochemical name": "alpha-Spinasterol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011677",
+    "Phytochemical name": "Taraxerol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011707",
+    "Phytochemical name": "beta-Carotene",
+    "References": "ISBN:9788171360536",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011805",
+    "Phytochemical name": "Quercitol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Mimusops elengi",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY015072",
+    "Phytochemical name": "beta-Sitosterol-beta-D-glucoside",
+    "References": "ISBN:9770972795006",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY000147",
+    "Phytochemical name": "(20S)-Protopanaxadiol",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY005440",
+    "Phytochemical name": "Protopanaxatriol",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY014754",
+    "Phytochemical name": "20(R)-Protopanaxatriol",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003983",
+    "Phytochemical name": "Ginsenoside rb1",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004045",
+    "Phytochemical name": "Ginsenoside RG2",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004273",
+    "Phytochemical name": "Ginsenoside RG1",
+    "References": "ISBN:9788172362461, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY008835",
+    "Phytochemical name": "Ginsenoside rb3",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY009370",
+    "Phytochemical name": "Ginsenoside Rc",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY010920",
+    "Phytochemical name": "Ginsenoside Rh1",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY010932",
+    "Phytochemical name": "(3S,4S,5S,6R)-2-[(3R,4S,5S,6R)-2-[[(3S,6S,8R,9R,10R,12R,17S)-3,12-dihydroxy-4,4,8,10,14-pentamethyl-17-[(2S)-6-methyl-2-[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhept-5-en-2-yl]-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-6-yl]oxy]-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]oxy-6-methyloxane-3,4,5-triol",
+    "References": "ISBN:9788172362461, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011454",
+    "Phytochemical name": "Gypenoside VIII",
+    "References": "ISBN:9788172362461, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY013064",
+    "Phytochemical name": "Ginsenoside Ro",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY013710",
+    "Phytochemical name": "Ginsenoside M7cd",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY016919",
+    "Phytochemical name": "Ginsenoside Rb2",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003639",
+    "Phytochemical name": "(20R)-Ginsenoside Rg3",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003983",
+    "Phytochemical name": "Ginsenoside rb1",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014754",
+    "Phytochemical name": "20(R)-Protopanaxatriol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014838",
+    "Phytochemical name": "Daucosterol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY016919",
+    "Phytochemical name": "Ginsenoside Rb2",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY001560",
+    "Phytochemical name": "1-Heptadecanol",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003618",
+    "Phytochemical name": "Ginsenoside Rg3",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003882",
+    "Phytochemical name": "20(S)-Ginsenoside Rh2",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003983",
+    "Phytochemical name": "Ginsenoside rb1",
+    "References": "ISBN:9788172362461, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004040",
+    "Phytochemical name": "Ginsenoside Rh2",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004045",
+    "Phytochemical name": "Ginsenoside RG2",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004046",
+    "Phytochemical name": "20R-Ginsenoside Rg2",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004273",
+    "Phytochemical name": "Ginsenoside RG1",
+    "References": "ISBN:9788172362461, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004275",
+    "Phytochemical name": "Ginsenoside-rgl",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006734",
+    "Phytochemical name": "Ginsenoside Rh3",
+    "References": "ISBN:9788172362461, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006971",
+    "Phytochemical name": "Methyl palmitate",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007322",
+    "Phytochemical name": "ginsenoside F2",
+    "References": "ISBN:9788185042084, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007366",
+    "Phytochemical name": "alpha-Santalene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008095",
+    "Phytochemical name": "Ginsenoside F3",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008305",
+    "Phytochemical name": "2-Heptadecanone",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008835",
+    "Phytochemical name": "Ginsenoside rb3",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008906",
+    "Phytochemical name": "Ginsenoside F1",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008936",
+    "Phytochemical name": "alpha-Guaiene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009370",
+    "Phytochemical name": "Ginsenoside Rc",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009389",
+    "Phytochemical name": "Pentadecane",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009550",
+    "Phytochemical name": "Ginsenoside-La",
+    "References": "ISBN:9788172362461, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009743",
+    "Phytochemical name": "beta-Gurjunene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010080",
+    "Phytochemical name": "beta-Elemene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010085",
+    "Phytochemical name": "Ginsenoside RG4",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010906",
+    "Phytochemical name": "Pseudoginsenoside FII",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010920",
+    "Phytochemical name": "Ginsenoside Rh1",
+    "References": "ISBN:9788172362461, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010932",
+    "Phytochemical name": "(3S,4S,5S,6R)-2-[(3R,4S,5S,6R)-2-[[(3S,6S,8R,9R,10R,12R,17S)-3,12-dihydroxy-4,4,8,10,14-pentamethyl-17-[(2S)-6-methyl-2-[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhept-5-en-2-yl]-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-6-yl]oxy]-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]oxy-6-methyloxane-3,4,5-triol",
+    "References": "ISBN:9788172362461, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011026",
+    "Phytochemical name": "(20R)-Ginsenoside Rh1",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011454",
+    "Phytochemical name": "Gypenoside VIII",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011579",
+    "Phytochemical name": "Eremophilene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011754",
+    "Phytochemical name": "Kaempferol 3-O-beta-D-glucosylgalactoside",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012151",
+    "Phytochemical name": "2-Methyltetradecane",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014624",
+    "Phytochemical name": "Dammaran-3,6,12,20,25-pentol-6-O-rhamnopyranosyl-(1-2)-O-glucopyranoside",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014754",
+    "Phytochemical name": "20(R)-Protopanaxatriol",
+    "References": "ISBN:9788172362461, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014966",
+    "Phytochemical name": "Trifolin",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY016919",
+    "Phytochemical name": "Ginsenoside Rb2",
+    "References": "ISBN:9788172362461, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "plant cells/culture",
+    "IMPPAT Phytochemical identifier": "IMPHY007778",
+    "Phytochemical name": "1-Chloro-8-(3-heptyloxiran-2-yl)octa-4,6-diyne-2,3-diol",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "plant cells/culture",
+    "IMPPAT Phytochemical identifier": "IMPHY009511",
+    "Phytochemical name": "Panaxacol",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "plant cells/culture",
+    "IMPPAT Phytochemical identifier": "IMPHY009577",
+    "Phytochemical name": "(3S,9R,10R)-heptadeca-4,6-diyne-3,9,10-triol",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY003618",
+    "Phytochemical name": "Ginsenoside Rg3",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY004045",
+    "Phytochemical name": "Ginsenoside RG2",
+    "References": "ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY009370",
+    "Phytochemical name": "Ginsenoside Rc",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY010297",
+    "Phytochemical name": "Ginsenoside Rd1",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY010920",
+    "Phytochemical name": "Ginsenoside Rh1",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY010932",
+    "Phytochemical name": "(3S,4S,5S,6R)-2-[(3R,4S,5S,6R)-2-[[(3S,6S,8R,9R,10R,12R,17S)-3,12-dihydroxy-4,4,8,10,14-pentamethyl-17-[(2S)-6-methyl-2-[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhept-5-en-2-yl]-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-6-yl]oxy]-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]oxy-6-methyloxane-3,4,5-triol",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY011454",
+    "Phytochemical name": "Gypenoside VIII",
+    "References": "ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY012053",
+    "Phytochemical name": "Sucrose",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY012197",
+    "Phytochemical name": "Adenosine",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY013064",
+    "Phytochemical name": "Ginsenoside Ro",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY016919",
+    "Phytochemical name": "Ginsenoside Rb2",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000699",
+    "Phytochemical name": "Ginsenoside Rs3",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001199",
+    "Phytochemical name": "Senecrassidiol",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001560",
+    "Phytochemical name": "1-Heptadecanol",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001717",
+    "Phytochemical name": "Perlolyrine",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001915",
+    "Phytochemical name": "Octadecane",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003208",
+    "Phytochemical name": "Ginsenol",
+    "References": "DOI:10.1080/0972060x.2006.10643501, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003616",
+    "Phytochemical name": "Bicyclogermacrene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003695",
+    "Phytochemical name": "(-)-Germacrene A",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003983",
+    "Phytochemical name": "Ginsenoside rb1",
+    "References": "ISBN:9788172362461, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004045",
+    "Phytochemical name": "Ginsenoside RG2",
+    "References": "ISBN:9788172362461, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004120",
+    "Phytochemical name": "(-)-Cyperene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004134",
+    "Phytochemical name": "gomisin N",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004187",
+    "Phytochemical name": "L-(+)-Arabinose",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004273",
+    "Phytochemical name": "Ginsenoside RG1",
+    "References": "ISBN:9788172362461, ISBN:9788185042053, ISBN:9788185042084, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004650",
+    "Phytochemical name": "2-sec-Butyl-3-methoxypyrazine",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004812",
+    "Phytochemical name": "Ginsenoside Rf",
+    "References": "ISBN:9788185042084, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004965",
+    "Phytochemical name": "Trilinolein",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005811",
+    "Phytochemical name": "2-Pentylfuran",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006288",
+    "Phytochemical name": "beta-Panasinsene",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006735",
+    "Phytochemical name": "8-[(2R,3S)-3-hept-6-enyloxiran-2-yl]oct-1-en-4,6-diyn-3-yl acetate",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006736",
+    "Phytochemical name": "8-[(2R,3S)-3-heptyloxiran-2-yl]octa-4,6-diyn-3-yl acetate",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006746",
+    "Phytochemical name": "8-(3-heptyloxiran-2-yl)oct-1-en-4,6-diyn-3-yl (9E,12E)-octadeca-9,12-dienoate",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006877",
+    "Phytochemical name": "(3r)-8-[(2r,3s)-3-Heptyloxiran-2-yl]oct-1-ene-4,6-diyn-3-ol",
+    "References": "ISBN:9788172362461, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006878",
+    "Phytochemical name": "Panaxynol linoleate",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006901",
+    "Phytochemical name": "(3S,5R,6S,8R,9R,10R,12R,13R,14R,17S)-4,4,8,10,14-pentamethyl-17-[(2R)-2,6,6-trimethyloxan-2-yl]-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-3,6,12-triol",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006971",
+    "Phytochemical name": "Methyl palmitate",
+    "References": "DOI:10.1080/0972060x.2006.10643501, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007012",
+    "Phytochemical name": "Panaxadiol",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007058",
+    "Phytochemical name": "Maltol",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007322",
+    "Phytochemical name": "ginsenoside F2",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "DOI:10.1080/0972060x.2006.10643501, ISBN:9788185042114, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007366",
+    "Phytochemical name": "alpha-Santalene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007378",
+    "Phytochemical name": "(2S,3R,4R,5S,6S)-2-(hydroxymethyl)-6-(((2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(((4aR,8aS)-4-isopropyl-1,7-dimethyl-1,2,3,4,4a,5,8,8a-octahydronaphthalen-1-yl)oxy)tetrahydro-2H-pyran-2-yl)methoxy)tetrahydro-2H-pyran-3,4,5-triol",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007386",
+    "Phytochemical name": "Panaxytriol",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007840",
+    "Phytochemical name": "Spathulenol",
+    "References": "DOI:10.1080/0972060x.2006.10643501, ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008085",
+    "Phytochemical name": "Ginsenoyne A",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008086",
+    "Phytochemical name": "Ginsenoyne A linoleate",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008087",
+    "Phytochemical name": "Ginsenoyne C",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008088",
+    "Phytochemical name": "Ginsenoyne E",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008089",
+    "Phytochemical name": "(4E)-8-[(2R,3S)-3-heptyloxiran-2-yl]octa-1,4-dien-6-yn-3-ol",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008094",
+    "Phytochemical name": "Ginsenoside Ra1",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008131",
+    "Phytochemical name": "Ginsenoyne K",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008148",
+    "Phytochemical name": "Ginsenoside Ra2",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008305",
+    "Phytochemical name": "2-Heptadecanone",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008835",
+    "Phytochemical name": "Ginsenoside rb3",
+    "References": "ISBN:9788172362461, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008936",
+    "Phytochemical name": "alpha-Guaiene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009323",
+    "Phytochemical name": "n9-Formylharman",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009355",
+    "Phytochemical name": "Tetracosane",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009369",
+    "Phytochemical name": "Nonadecane",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009370",
+    "Phytochemical name": "Ginsenoside Rc",
+    "References": "ISBN:9788172362461, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009375",
+    "Phytochemical name": "Docosane",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009377",
+    "Phytochemical name": "Pentacosane",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009382",
+    "Phytochemical name": "Heneicosane",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009389",
+    "Phytochemical name": "Pentadecane",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009490",
+    "Phytochemical name": "Tricosane",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009624",
+    "Phytochemical name": "Ethyl palmitate",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY009743",
+    "Phytochemical name": "beta-Gurjunene",
+    "References": "ISBN:9788185042114, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010080",
+    "Phytochemical name": "beta-Elemene",
+    "References": "DOI:10.1080/0972060x.2006.10643501, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010585",
+    "Phytochemical name": "(1aR,7R,7aR,7bS)-1,1,7,7a-tetramethyl-2,3,5,6,7,7b-hexahydro-1aH-cyclopropa[a]naphthalene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010599",
+    "Phytochemical name": "Besigomsin",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010685",
+    "Phytochemical name": "Ginsenoyne J",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010920",
+    "Phytochemical name": "Ginsenoside Rh1",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010932",
+    "Phytochemical name": "(3S,4S,5S,6R)-2-[(3R,4S,5S,6R)-2-[[(3S,6S,8R,9R,10R,12R,17S)-3,12-dihydroxy-4,4,8,10,14-pentamethyl-17-[(2S)-6-methyl-2-[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhept-5-en-2-yl]-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-6-yl]oxy]-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]oxy-6-methyloxane-3,4,5-triol",
+    "References": "ISBN:9788172362461, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010987",
+    "Phytochemical name": "Malonylginsenoside Rb(1)",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010991",
+    "Phytochemical name": "Malonyl ginsenoside Rd",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011084",
+    "Phytochemical name": "(1S,6S,7R)-2,6,8,8-Tetramethyltricyclo[5.2.2.01,6]undec-2-ene",
+    "References": "DOI:10.1080/0972060x.2006.10643501, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011102",
+    "Phytochemical name": "Spinacine",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011272",
+    "Phytochemical name": "Malonyl ginsenoside Rb2",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011454",
+    "Phytochemical name": "Gypenoside VIII",
+    "References": "ISBN:9788172362461, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011548",
+    "Phytochemical name": "Falcarinol",
+    "References": "DOI:10.1080/0972060x.2006.10643501, ISBN:9788172362461, ISBN:9788185042114, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011579",
+    "Phytochemical name": "Eremophilene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011749",
+    "Phytochemical name": "Humulene epoxide II",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "DOI:10.1080/0972060x.2006.10643501, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011793",
+    "Phytochemical name": "(+)-gamma-Cadinene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011957",
+    "Phytochemical name": "(+)-delta-Cadinene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012018",
+    "Phytochemical name": "gamma-Aminobutyric acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012043",
+    "Phytochemical name": "1,8-Heptadecadiene-4,6-diyne-3,10-diol",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012050",
+    "Phytochemical name": "D-Galactose",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012151",
+    "Phytochemical name": "2-Methyltetradecane",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012344",
+    "Phytochemical name": "(2aS,4aR)-2,2,4a,8-tetramethyl-2a,3,4,5,6,7-hexahydro-1H-cyclobuta[i]inden-8-ol",
+    "References": "ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012636",
+    "Phytochemical name": "beta-Neoclovene",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012667",
+    "Phytochemical name": "Caryophyllene oxide",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012723",
+    "Phytochemical name": "Linolenic acid",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012789",
+    "Phytochemical name": "Ginsenoyne B",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY013064",
+    "Phytochemical name": "Ginsenoside Ro",
+    "References": "ISBN:9788172362461, ISBN:9788185042084, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY013275",
+    "Phytochemical name": "Ginsenoyne H",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY013710",
+    "Phytochemical name": "Ginsenoside M7cd",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014340",
+    "Phytochemical name": "3-sec-Butyl-2-methoxy-5-methylpyrazine",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014690",
+    "Phytochemical name": "(-)-Globulol",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014708",
+    "Phytochemical name": "beta-Selinene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014785",
+    "Phytochemical name": "(E)-2-epi-beta-caryophyllene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014817",
+    "Phytochemical name": "Aromadendrene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "DOI:10.1080/0972060x.2006.10643501, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042053, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014893",
+    "Phytochemical name": "D-Glucose",
+    "References": "ISBN:9788185042053, ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014919",
+    "Phytochemical name": "D-Galacturonic Acid",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014949",
+    "Phytochemical name": "Isointermedeol",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014986",
+    "Phytochemical name": "Ledol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015032",
+    "Phytochemical name": "Panasinsanol A",
+    "References": "ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015056",
+    "Phytochemical name": "L-Rhamnose",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015128",
+    "Phytochemical name": "T-Muurolol",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY015263",
+    "Phytochemical name": "2-Heptylfuran",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY016012",
+    "Phytochemical name": "Allo-Aromadendrene",
+    "References": "DOI:10.1080/0972060x.2006.10643501",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY016919",
+    "Phytochemical name": "Ginsenoside Rb2",
+    "References": "ISBN:9788172362461, ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY001560",
+    "Phytochemical name": "1-Heptadecanol",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY003618",
+    "Phytochemical name": "Ginsenoside Rg3",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY003983",
+    "Phytochemical name": "Ginsenoside rb1",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004040",
+    "Phytochemical name": "Ginsenoside Rh2",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004045",
+    "Phytochemical name": "Ginsenoside RG2",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004187",
+    "Phytochemical name": "L-(+)-Arabinose",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004235",
+    "Phytochemical name": "D-Glucuronic Acid",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004273",
+    "Phytochemical name": "Ginsenoside RG1",
+    "References": "ISBN:9788185042084, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004275",
+    "Phytochemical name": "Ginsenoside-rgl",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004812",
+    "Phytochemical name": "Ginsenoside Rf",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY006971",
+    "Phytochemical name": "Methyl palmitate",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY007322",
+    "Phytochemical name": "ginsenoside F2",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY007366",
+    "Phytochemical name": "alpha-Santalene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY008305",
+    "Phytochemical name": "2-Heptadecanone",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY008835",
+    "Phytochemical name": "Ginsenoside rb3",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY008906",
+    "Phytochemical name": "Ginsenoside F1",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY008936",
+    "Phytochemical name": "alpha-Guaiene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY009370",
+    "Phytochemical name": "Ginsenoside Rc",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY009389",
+    "Phytochemical name": "Pentadecane",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY009743",
+    "Phytochemical name": "beta-Gurjunene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY010080",
+    "Phytochemical name": "beta-Elemene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY010906",
+    "Phytochemical name": "Pseudoginsenoside FII",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY010920",
+    "Phytochemical name": "Ginsenoside Rh1",
+    "References": "ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY010932",
+    "Phytochemical name": "(3S,4S,5S,6R)-2-[(3R,4S,5S,6R)-2-[[(3S,6S,8R,9R,10R,12R,17S)-3,12-dihydroxy-4,4,8,10,14-pentamethyl-17-[(2S)-6-methyl-2-[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhept-5-en-2-yl]-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-6-yl]oxy]-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]oxy-6-methyloxane-3,4,5-triol",
+    "References": "ISBN:9788185042084, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY011454",
+    "Phytochemical name": "Gypenoside VIII",
+    "References": "ISBN:9788185042084, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY011579",
+    "Phytochemical name": "Eremophilene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY011754",
+    "Phytochemical name": "Kaempferol 3-O-beta-D-glucosylgalactoside",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY012050",
+    "Phytochemical name": "D-Galactose",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY012151",
+    "Phytochemical name": "2-Methyltetradecane",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY013064",
+    "Phytochemical name": "Ginsenoside Ro",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY014709",
+    "Phytochemical name": "20(R)-Ginsenoside Rh2",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY014893",
+    "Phytochemical name": "D-Glucose",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY014919",
+    "Phytochemical name": "D-Galacturonic Acid",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY014966",
+    "Phytochemical name": "Trifolin",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY015000",
+    "Phytochemical name": "D-Mannose",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY015056",
+    "Phytochemical name": "L-Rhamnose",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY016919",
+    "Phytochemical name": "Ginsenoside Rb2",
+    "References": "ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY009290",
+    "Phytochemical name": "Panaxydol chlorohydrin",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY009291",
+    "Phytochemical name": "13-Tetradecene-1,3-diyne-6,7-diol",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY011754",
+    "Phytochemical name": "Kaempferol 3-O-beta-D-glucosylgalactoside",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax ginseng",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY014966",
+    "Phytochemical name": "Trifolin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000601",
+    "Phytochemical name": "Triacontanoic acid",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004275",
+    "Phytochemical name": "Ginsenoside-rgl",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005092",
+    "Phytochemical name": "Dotriacontanoic acid",
+    "References": "ISBN:9788172362461, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007612",
+    "Phytochemical name": "Dotriacontanol",
+    "References": "ISBN:9788172362461, ISBN:9788185042138, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008910",
+    "Phytochemical name": "Hentriacontane",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011398",
+    "Phytochemical name": "Cetyl palmitate",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9788172362461, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY000601",
+    "Phytochemical name": "Triacontanoic acid",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY001533",
+    "Phytochemical name": "1-Tritriacontanol",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY003983",
+    "Phytochemical name": "Ginsenoside rb1",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY004273",
+    "Phytochemical name": "Ginsenoside RG1",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY005092",
+    "Phytochemical name": "Dotriacontanoic acid",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY005531",
+    "Phytochemical name": "Hexatriacontanoic acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY005660",
+    "Phytochemical name": "Oleanoside E",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY006901",
+    "Phytochemical name": "(3S,5R,6S,8R,9R,10R,12R,13R,14R,17S)-4,4,8,10,14-pentamethyl-17-[(2R)-2,6,6-trimethyloxan-2-yl]-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-3,6,12-triol",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY006911",
+    "Phytochemical name": "Pseudoginsenoside Rt1",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY006971",
+    "Phytochemical name": "Methyl palmitate",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY007012",
+    "Phytochemical name": "Panaxadiol",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY007612",
+    "Phytochemical name": "Dotriacontanol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY008835",
+    "Phytochemical name": "Ginsenoside rb3",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY008910",
+    "Phytochemical name": "Hentriacontane",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY009370",
+    "Phytochemical name": "Ginsenoside Rc",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY009485",
+    "Phytochemical name": "Pentatriacontane",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY010402",
+    "Phytochemical name": "14-Hydroxy-heneicosanoic acid",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY010906",
+    "Phytochemical name": "Pseudoginsenoside FII",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY010932",
+    "Phytochemical name": "(3S,4S,5S,6R)-2-[(3R,4S,5S,6R)-2-[[(3S,6S,8R,9R,10R,12R,17S)-3,12-dihydroxy-4,4,8,10,14-pentamethyl-17-[(2S)-6-methyl-2-[(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhept-5-en-2-yl]-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-6-yl]oxy]-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]oxy-6-methyloxane-3,4,5-triol",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY011394",
+    "Phytochemical name": "Arachidic acid",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY011454",
+    "Phytochemical name": "Gypenoside VIII",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY013064",
+    "Phytochemical name": "Ginsenoside Ro",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY016919",
+    "Phytochemical name": "Ginsenoside Rb2",
+    "References": "ISBN:9788172362461, ISBN:9788185042138",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003983",
+    "Phytochemical name": "Ginsenoside rb1",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006901",
+    "Phytochemical name": "(3S,5R,6S,8R,9R,10R,12R,13R,14R,17S)-4,4,8,10,14-pentamethyl-17-[(2R)-2,6,6-trimethyloxan-2-yl]-2,3,5,6,7,9,11,12,13,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthrene-3,6,12-triol",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007012",
+    "Phytochemical name": "Panaxadiol",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010906",
+    "Phytochemical name": "Pseudoginsenoside FII",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Panax pseudoginseng",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY001366",
+    "Phytochemical name": "Phygrine",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY003462",
+    "Phytochemical name": "Hygrine",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY005244",
+    "Phytochemical name": "Physalactone",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY010143",
+    "Phytochemical name": "Tropine",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY012663",
+    "Phytochemical name": "Cuscohygrine",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004645",
+    "Phytochemical name": "beta-Cryptoxanthin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY005980",
+    "Phytochemical name": "Mutatoxanthin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY010161",
+    "Phytochemical name": "(6S,7aR)-2-[(2E,4E,6E,8E,10E,12E,14E)-15-[(6S,7aR)-6-hydroxy-4,4,7a-trimethyl-2,5,6,7-tetrahydro-1-benzofuran-2-yl]-6,11-dimethylhexadeca-2,4,6,8,10,12,14-heptaen-2-yl]-4,4,7a-trimethyl-2,5,6,7-tetrahydro-1-benzofuran-6-ol",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011707",
+    "Phytochemical name": "beta-Carotene",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011785",
+    "Phytochemical name": "Zeaxanthin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY004645",
+    "Phytochemical name": "beta-Cryptoxanthin",
+    "References": "ISBN:9788190115162, The Unani Pharmacopoeia of India Part-1 Volume-5",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY005980",
+    "Phytochemical name": "Mutatoxanthin",
+    "References": "ISBN:9788190115162, The Unani Pharmacopoeia of India Part-1 Volume-5",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY010161",
+    "Phytochemical name": "(6S,7aR)-2-[(2E,4E,6E,8E,10E,12E,14E)-15-[(6S,7aR)-6-hydroxy-4,4,7a-trimethyl-2,5,6,7-tetrahydro-1-benzofuran-2-yl]-6,11-dimethylhexadeca-2,4,6,8,10,12,14-heptaen-2-yl]-4,4,7a-trimethyl-2,5,6,7-tetrahydro-1-benzofuran-6-ol",
+    "References": "ISBN:9788190115162, The Unani Pharmacopoeia of India Part-1 Volume-5",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011646",
+    "Phytochemical name": "Cynaroside",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011785",
+    "Phytochemical name": "Zeaxanthin",
+    "References": "ISBN:9788190115162, The Unani Pharmacopoeia of India Part-1 Volume-5",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005244",
+    "Phytochemical name": "Physalactone",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011646",
+    "Phytochemical name": "Cynaroside",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011600",
+    "Phytochemical name": "Tropigline",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Physalis alkekengi",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9788172361150",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Picea engelmannii",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY013835",
+    "Phytochemical name": "(+)-Fenchone",
+    "References": "ISBN:9770976605004",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011859",
+    "Phytochemical name": "Epifriedelanol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003270",
+    "Phytochemical name": "Guaiazulene",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004549",
+    "Phytochemical name": "Safrole",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006325",
+    "Phytochemical name": "Myrtenal",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010072",
+    "Phytochemical name": "Eucalyptol",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010640",
+    "Phytochemical name": "Eudesmol",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011599",
+    "Phytochemical name": "Terpinolene",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011643",
+    "Phytochemical name": "alpha-Terpinene",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011901",
+    "Phytochemical name": "Thujone",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Pogostemon benghalensis",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004054",
+    "Phytochemical name": "Fraxinol",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY013814",
+    "Phytochemical name": "2',4',6'-Trihydroxyacetophenone",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY004187",
+    "Phytochemical name": "L-(+)-Arabinose",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012050",
+    "Phytochemical name": "D-Galactose",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014919",
+    "Phytochemical name": "D-Galacturonic Acid",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015056",
+    "Phytochemical name": "L-Rhamnose",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY015116",
+    "Phytochemical name": "D-Xylose",
+    "References": "ISBN:9788185042114",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015047",
+    "Phytochemical name": "Rutin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002962",
+    "Phytochemical name": "Benzoic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003242",
+    "Phytochemical name": "Amygdaloside",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011394",
+    "Phytochemical name": "Arachidic acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY001090",
+    "Phytochemical name": "Prudomestin",
+    "References": "ISBN:9788172362461, ISBN:9788185042053, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY002073",
+    "Phytochemical name": "Aromadendrin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY002568",
+    "Phytochemical name": "2,3-Dihydroflavon-3-ol",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY005462",
+    "Phytochemical name": "Kaempferide",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY005513",
+    "Phytochemical name": "Chrysin",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY006500",
+    "Phytochemical name": "Dihydrokaempferide",
+    "References": "ISBN:9788172362461, ISBN:9788185042053, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY007196",
+    "Phytochemical name": "Pinocembrin",
+    "References": "ISBN:9788185042084",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY010550",
+    "Phytochemical name": "Naringetol",
+    "References": "ISBN:9788172362461, ISBN:9788185042084, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY010578",
+    "Phytochemical name": "Isosakuranetin",
+    "References": "ISBN:9788172362461, ISBN:9788185042084, ISBN:9788185042145",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Prunus domestica",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY011885",
+    "Phytochemical name": "Leucodelphidin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011670",
+    "Phytochemical name": "Epigallocatechin gallate",
+    "References": "ISBN:9770976605004",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011688",
+    "Phytochemical name": "Friedelin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011885",
+    "Phytochemical name": "Leucodelphidin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012021",
+    "Phytochemical name": "Gallic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011619",
+    "Phytochemical name": "alpha-Amyrin",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011677",
+    "Phytochemical name": "Taraxerol",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY003535",
+    "Phytochemical name": "Leucopelargonidin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788185042053",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Quercus robur",
+    "Plant part": "wood",
+    "IMPPAT Phytochemical identifier": "IMPHY010526",
+    "Phytochemical name": "Castalagin",
+    "References": "ISBN:9788172362461",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Saccharum bengalense",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY007041",
+    "Phytochemical name": "Furfural",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Saccharum bengalense",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY012050",
+    "Phytochemical name": "D-Galactose",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Saccharum bengalense",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY015056",
+    "Phytochemical name": "L-Rhamnose",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Saccharum bengalense",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY012050",
+    "Phytochemical name": "D-Galactose",
+    "References": "ISBN:9788172362140",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Saccharum bengalense",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY014893",
+    "Phytochemical name": "D-Glucose",
+    "References": "ISBN:9788172362140",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Saccharum bengalense",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY015056",
+    "Phytochemical name": "L-Rhamnose",
+    "References": "ISBN:9788172362140",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Saccharum bengalense",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY015116",
+    "Phytochemical name": "D-Xylose",
+    "References": "ISBN:9788172362140",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Typhonium trilobatum",
+    "Plant part": "tuber",
+    "IMPPAT Phytochemical identifier": "IMPHY000005",
+    "Phytochemical name": "Thiamine",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Typhonium trilobatum",
+    "Plant part": "tuber",
+    "IMPPAT Phytochemical identifier": "IMPHY006310",
+    "Phytochemical name": "Folic",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Typhonium trilobatum",
+    "Plant part": "tuber",
+    "IMPPAT Phytochemical identifier": "IMPHY007357",
+    "Phytochemical name": "Nicotinic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Typhonium trilobatum",
+    "Plant part": "tuber",
+    "IMPPAT Phytochemical identifier": "IMPHY011609",
+    "Phytochemical name": "alpha-Carotene",
+    "References": "ISBN:9780387706375",
+    "query_used": "eng"
+  },
+  {
+    "Indian medicinal plant": "Typhonium trilobatum",
+    "Plant part": "tuber",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375, ISBN:9788172362140, ISBN:9788190595216",
+    "query_used": "eng"
+  }
+]

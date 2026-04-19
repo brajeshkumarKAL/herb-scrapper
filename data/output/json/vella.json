@@ -1,0 +1,610 @@
+[
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY000593",
+    "Phytochemical name": "1-Tetracosanol",
+    "References": "ISBN:9788172361266",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004271",
+    "Phytochemical name": "Betulin",
+    "References": "ISBN:9788172361266",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9788185042114",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788185042138",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY005471",
+    "Phytochemical name": "Myricetin",
+    "References": "ISBN:9788185042114",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011919",
+    "Phytochemical name": "Afzelin",
+    "References": "ISBN:9788185042114",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012745",
+    "Phytochemical name": "Myricitrin",
+    "References": "ISBN:9788185042138",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788172361266",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015054",
+    "Phytochemical name": "Quercitrin",
+    "References": "ISBN:9788185042138",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005753",
+    "Phytochemical name": "Allantoic acid",
+    "References": "ISBN:9788172361266",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011677",
+    "Phytochemical name": "Taraxerol",
+    "References": "ISBN:9788172360481, ISBN:9788185042114",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012745",
+    "Phytochemical name": "Myricitrin",
+    "References": "ISBN:9788172361266",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788172360481, ISBN:9788185042114",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000060",
+    "Phytochemical name": "Myristic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Corylus avellana",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY000103",
+    "Phytochemical name": "Pyrogallol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY001246",
+    "Phytochemical name": "Carvacrol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY001351",
+    "Phytochemical name": "Elemicin",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002750",
+    "Phytochemical name": "2-Acetylfuran",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002915",
+    "Phytochemical name": "Benzyl Alcohol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002962",
+    "Phytochemical name": "Benzoic acid",
+    "References": "ISBN:9788172363093",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003002",
+    "Phytochemical name": "Lapachol",
+    "References": "ISBN:9788172363093",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003113",
+    "Phytochemical name": "p-Cresol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003482",
+    "Phytochemical name": "4-Methoxybenzaldehyde",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003520",
+    "Phytochemical name": "Benzophenone",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003536",
+    "Phytochemical name": "Eugenol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY005345",
+    "Phytochemical name": "1-Octen-3-OL",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006029",
+    "Phytochemical name": "4-Methoxybenzyl alcohol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006054",
+    "Phytochemical name": "Dehydro-alpha-lapachone",
+    "References": "ISBN:9788172363093",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006279",
+    "Phytochemical name": "2-Phenylethanol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006347",
+    "Phytochemical name": "Hexanal",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006550",
+    "Phytochemical name": "Thymol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006640",
+    "Phytochemical name": "2-Methoxy-4-methylphenol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006672",
+    "Phytochemical name": "3,4-Dimethoxybenzyl alcohol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006840",
+    "Phytochemical name": "1,2-Dimethoxybenzene",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006944",
+    "Phytochemical name": "Estragole",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY007006",
+    "Phytochemical name": "Furfuryl alcohol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY007041",
+    "Phytochemical name": "Furfural",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY007171",
+    "Phytochemical name": "1-Hexanol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY007331",
+    "Phytochemical name": "6-Methyl-5-hepten-2-one",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY007431",
+    "Phytochemical name": "1,4-Dimethoxybenzene",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY009893",
+    "Phytochemical name": "4-Methoxyphenol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY009946",
+    "Phytochemical name": "Benzaldehyde",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY010072",
+    "Phytochemical name": "Eucalyptol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY010995",
+    "Phytochemical name": "Toluene",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011015",
+    "Phytochemical name": "2,6-Dimethoxyphenol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011396",
+    "Phytochemical name": "4-Carvomenthenol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011409",
+    "Phytochemical name": "Guaiacol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011562",
+    "Phytochemical name": "2-Hexenal",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011588",
+    "Phytochemical name": "cis-3-Hexen-1-ol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011590",
+    "Phytochemical name": "d-Borneol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011714",
+    "Phytochemical name": "Methyl cinnamate",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011763",
+    "Phytochemical name": "Anethole",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011882",
+    "Phytochemical name": "Cinnamaldehyde",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011884",
+    "Phytochemical name": "Pulegone",
+    "References": "ISBN:9770976605004",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012036",
+    "Phytochemical name": "Camphor",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012062",
+    "Phytochemical name": "Diethyl phthalate",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012075",
+    "Phytochemical name": "Carvone",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012160",
+    "Phytochemical name": "alpha-Terpineol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012248",
+    "Phytochemical name": "Naphtho[2,3-b]furan-4,9-dione",
+    "References": "ISBN:9788172363093",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012667",
+    "Phytochemical name": "Caryophyllene oxide",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012920",
+    "Phytochemical name": "2-Furanmethanol, 5-ethenyltetrahydro-alpha,alpha,5-trimethyl-, cis-",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY013789",
+    "Phytochemical name": "3,4-Dimethoxyphenol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014988",
+    "Phytochemical name": "Limonene",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014989",
+    "Phytochemical name": "trans-Linalool oxide",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015003",
+    "Phytochemical name": "Menthol",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015004",
+    "Phytochemical name": "Menthone",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  },
+  {
+    "Indian medicinal plant": "Handroanthus impetiginosus",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015315",
+    "Phytochemical name": "3,4-Dimethoxytoluene",
+    "References": "DOI:10.1002/ffj.1345",
+    "query_used": "vella"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Indian medicinal plant": "Hippeastrum puniceum",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY001177",
+    "Phytochemical name": "Pseudolycorine",
+    "References": "ISBN:9788185042053",
+    "query_used": "hippe"
+  },
+  {
+    "Indian medicinal plant": "Hippeastrum puniceum",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY003832",
+    "Phytochemical name": "Lycorine",
+    "References": "ISBN:9788185042053",
+    "query_used": "hippe"
+  },
+  {
+    "Indian medicinal plant": "Hippeastrum puniceum",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042053",
+    "query_used": "hippe"
+  }
+]

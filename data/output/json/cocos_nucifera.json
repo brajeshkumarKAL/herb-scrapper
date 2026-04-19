@@ -1,0 +1,82 @@
+[
+  {
+    "Indian medicinal plant": "Cocos nucifera",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY000060",
+    "Phytochemical name": "Myristic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "cocos nucifera"
+  },
+  {
+    "Indian medicinal plant": "Cocos nucifera",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003016",
+    "Phytochemical name": "Lauric acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "cocos nucifera"
+  },
+  {
+    "Indian medicinal plant": "Cocos nucifera",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007068",
+    "Phytochemical name": "Undecanoic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "cocos nucifera"
+  },
+  {
+    "Indian medicinal plant": "Cocos nucifera",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007412",
+    "Phytochemical name": "Octadecanoic acid, 2,3-bis[(1-oxohexadecyl)oxy]propyl ester",
+    "References": "ISBN:9788171360536",
+    "query_used": "cocos nucifera"
+  },
+  {
+    "Indian medicinal plant": "Cocos nucifera",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY009513",
+    "Phytochemical name": "Tridecanoic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "cocos nucifera"
+  },
+  {
+    "Indian medicinal plant": "Cocos nucifera",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011802",
+    "Phytochemical name": "Ferulic acid",
+    "References": "ISBN:9770976605004",
+    "query_used": "cocos nucifera"
+  },
+  {
+    "Indian medicinal plant": "Cocos nucifera",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY000060",
+    "Phytochemical name": "Myristic acid",
+    "References": "ISBN:9788172361266",
+    "query_used": "cocos nucifera"
+  },
+  {
+    "Indian medicinal plant": "Cocos nucifera",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY003016",
+    "Phytochemical name": "Lauric acid",
+    "References": "ISBN:9788172361266",
+    "query_used": "cocos nucifera"
+  },
+  {
+    "Indian medicinal plant": "Cocos nucifera",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY008937",
+    "Phytochemical name": "Vitamin E",
+    "References": "ISBN:9788172360481",
+    "query_used": "cocos nucifera"
+  },
+  {
+    "Indian medicinal plant": "Cocos nucifera",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY012664",
+    "Phytochemical name": "Penicillic acid",
+    "References": "ISBN:9788172360481",
+    "query_used": "cocos nucifera"
+  }
+]

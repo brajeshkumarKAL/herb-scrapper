@@ -1,0 +1,586 @@
+[
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY000328",
+    "Phytochemical name": "Dihydroisoconessimine",
+    "References": "ISBN:9788172360481",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY001601",
+    "Phytochemical name": "Irehdiamine B",
+    "References": "ISBN:9770972795006, ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002096",
+    "Phytochemical name": "Conessimine",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788171360536, ISBN:9788172361266, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002132",
+    "Phytochemical name": "Conarrhimine",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172361266",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002156",
+    "Phytochemical name": "Norholadiene",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002225",
+    "Phytochemical name": "Conimine",
+    "References": "ISBN:9770972795006, ISBN:9788171360536, ISBN:9788172361266, ISBN:9788185042053, ISBN:9789327275590, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002427",
+    "Phytochemical name": "Regholarrhenine D",
+    "References": "ISBN:9788185042145",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002562",
+    "Phytochemical name": "Regholarrhenine F",
+    "References": "ISBN:9788185042145",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003716",
+    "Phytochemical name": "Pubescine",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003851",
+    "Phytochemical name": "Kurcholessine",
+    "References": "ISBN:9780387706375, ISBN:9788172360481, ISBN:9788172362300, ISBN:9788185042145, ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003852",
+    "Phytochemical name": "Regholarrhenine E",
+    "References": "ISBN:9788185042145",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004099",
+    "Phytochemical name": "Kurchessine",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172362300, ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY005696",
+    "Phytochemical name": "Conessidine",
+    "References": "ISBN:9788171360536, ISBN:9788172361266, ISBN:9788185042053, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY008819",
+    "Phytochemical name": "Holarrhetine",
+    "References": "Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY008829",
+    "Phytochemical name": "Holafrine",
+    "References": "ISBN:9788185042053, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY008970",
+    "Phytochemical name": "Conamine",
+    "References": "ISBN:9788172361266, ISBN:9789327275590, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY010604",
+    "Phytochemical name": "Kurchine",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788172361266, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY010721",
+    "Phytochemical name": "Regholarrhenine A",
+    "References": "ISBN:9788185042138, ISBN:9788185042145, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY010824",
+    "Phytochemical name": "Regholarrhenine B",
+    "References": "ISBN:9788185042138, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY010956",
+    "Phytochemical name": "Pubescimine",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY010971",
+    "Phytochemical name": "Conckurchine",
+    "References": "ISBN:9788172361266, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011169",
+    "Phytochemical name": "Holarrhenine",
+    "References": "ISBN:9788171360536, ISBN:9788185042053, ISBN:9789327275590, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011293",
+    "Phytochemical name": "11beta-Hydroxyboldione",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011416",
+    "Phytochemical name": "11alpha-Hydroxyandrosta-1,4-diene-3,17-dione",
+    "References": "ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012520",
+    "Phytochemical name": "Conessine",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788172361266, ISBN:9788172362300, ISBN:9788185042053, ISBN:9788185042145, ISBN:9788190115131, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012961",
+    "Phytochemical name": "Conanine",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY013094",
+    "Phytochemical name": "Holadienine",
+    "References": "Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY013264",
+    "Phytochemical name": "Holarrhimine",
+    "References": "ISBN:9788171360536, ISBN:9788172361150, ISBN:9788172361266, Standardization of Single Drugs of Unani Medicine Part - IV",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014972",
+    "Phytochemical name": "L-Quebrachitol",
+    "References": "ISBN:9788172360481",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY010604",
+    "Phytochemical name": "Kurchine",
+    "References": "ISBN:9788172361150",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000304",
+    "Phytochemical name": "Kurchaline",
+    "References": "ISBN:9788172360481",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000306",
+    "Phytochemical name": "Holadysine",
+    "References": "ISBN:9788172360481",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000806",
+    "Phytochemical name": "Triacanthine",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004099",
+    "Phytochemical name": "Kurchessine",
+    "References": "ISBN:9788172360481, ISBN:9788172361150, ISBN:9788185042053",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008870",
+    "Phytochemical name": "Holadysamine",
+    "References": "ISBN:9788172360481",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010257",
+    "Phytochemical name": "Holantosine C",
+    "References": "ISBN:9788171360536, ISBN:9788172360481",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010279",
+    "Phytochemical name": "Holantosine D",
+    "References": "ISBN:9788171360536, ISBN:9788172360481",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010291",
+    "Phytochemical name": "Holantosine A",
+    "References": "ISBN:9788171360536, ISBN:9788172360481, ISBN:9788185042084",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010427",
+    "Phytochemical name": "Holantosine B",
+    "References": "ISBN:9788171360536, ISBN:9788172360481, ISBN:9788185042084",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010604",
+    "Phytochemical name": "Kurchine",
+    "References": "ISBN:9788172361150",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012979",
+    "Phytochemical name": "Holaphylline",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY013059",
+    "Phytochemical name": "Holaphyllamine",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY013264",
+    "Phytochemical name": "Holarrhimine",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001601",
+    "Phytochemical name": "Irehdiamine B",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY002225",
+    "Phytochemical name": "Conimine",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003851",
+    "Phytochemical name": "Kurcholessine",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004099",
+    "Phytochemical name": "Kurchessine",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY008970",
+    "Phytochemical name": "Conamine",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011169",
+    "Phytochemical name": "Holarrhenine",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012961",
+    "Phytochemical name": "Conanine",
+    "References": "ISBN:9789327275590",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000165",
+    "Phytochemical name": "Tetracosanoic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000475",
+    "Phytochemical name": "Kurchiline",
+    "References": "ISBN:9788171360536",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002225",
+    "Phytochemical name": "Conimine",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002401",
+    "Phytochemical name": "Holarricine",
+    "References": "ISBN:9788171360536, ISBN:9788185042114",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004099",
+    "Phytochemical name": "Kurchessine",
+    "References": "ISBN:9788171360536",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY005445",
+    "Phytochemical name": "Isoricinoleic Acid",
+    "References": "ISBN:9788171360536, ISBN:9788172361150",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007313",
+    "Phytochemical name": "Betulinaldehyde",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY010604",
+    "Phytochemical name": "Kurchine",
+    "References": "ISBN:9770972795006, ISBN:9788172361150",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012003",
+    "Phytochemical name": "Betulinic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012473",
+    "Phytochemical name": "Lupeol",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012520",
+    "Phytochemical name": "Conessine",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012723",
+    "Phytochemical name": "Linolenic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY013264",
+    "Phytochemical name": "Holarrhimine",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY013719",
+    "Phytochemical name": "Antidysentericine",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "holarrhena pubescens"
+  },
+  {
+    "Indian medicinal plant": "Holarrhena pubescens",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY010604",
+    "Phytochemical name": "Kurchine",
+    "References": "ISBN:9788172361150",
+    "query_used": "holarrhena pubescens"
+  }
+]

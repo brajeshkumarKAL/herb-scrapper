@@ -1,0 +1,290 @@
+[
+  {
+    "Indian medicinal plant": "Bromelia pinguin",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004336",
+    "Phytochemical name": "Penduletin",
+    "References": "ISBN:9788172360481",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Bromelia pinguin",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004960",
+    "Phytochemical name": "Casticin",
+    "References": "ISBN:9788172360481",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Bromelia pinguin",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007029",
+    "Phytochemical name": "Isoferulic acid",
+    "References": "ISBN:9788172360481",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Bromelia pinguin",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004336",
+    "Phytochemical name": "Penduletin",
+    "References": "ISBN:9788172360481",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Bromelia pinguin",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY004960",
+    "Phytochemical name": "Casticin",
+    "References": "ISBN:9788172360481",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Bromelia pinguin",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY007029",
+    "Phytochemical name": "Isoferulic acid",
+    "References": "ISBN:9788172360481",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY003482",
+    "Phytochemical name": "4-Methoxybenzaldehyde",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY006944",
+    "Phytochemical name": "Estragole",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY010072",
+    "Phytochemical name": "Eucalyptol",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY011590",
+    "Phytochemical name": "d-Borneol",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY011763",
+    "Phytochemical name": "Anethole",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY012036",
+    "Phytochemical name": "Camphor",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY014852",
+    "Phytochemical name": "Camphene",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Etlingera linguiformis",
+    "Plant part": "rhizome",
+    "IMPPAT Phytochemical identifier": "IMPHY014988",
+    "Phytochemical name": "Limonene",
+    "References": "DOI:10.1080/10412905.1995.9698529, ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY005543",
+    "Phytochemical name": "Rhamnetin",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY005708",
+    "Phytochemical name": "3-[6-[[3,5-Dihydroxy-6-methyl-4-(3,4,5-trihydroxy-6-methyloxan-2-yl)oxyoxan-2-yl]oxymethyl]-3,4,5-trihydroxyoxan-2-yl]oxy-2-(3,4-dihydroxyphenyl)-5-hydroxy-7-methoxychromen-4-one",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012721",
+    "Phytochemical name": "Isoquercitrin",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006362",
+    "Phytochemical name": "Ascorbic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY001105",
+    "Phytochemical name": "Niazirinin",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006362",
+    "Phytochemical name": "Ascorbic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009543",
+    "Phytochemical name": "4-(Rhamnosyloxy)phenylacetonitrile",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005071",
+    "Phytochemical name": "Benzyl isothiocyanate",
+    "References": "ISBN:9780387706375",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006655",
+    "Phytochemical name": "Pterygospermin",
+    "References": "ISBN:9770972795006, ISBN:9780387706375",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007212",
+    "Phytochemical name": "Docosanoic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Moringa pterygosperma",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Pyrrosia lingua",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004759",
+    "Phytochemical name": "Liquiritin",
+    "References": "ISBN:9788185042145",
+    "query_used": "ingu"
+  },
+  {
+    "Indian medicinal plant": "Pyrrosia lingua",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014824",
+    "Phytochemical name": "Astragalin",
+    "References": "ISBN:9788185042145",
+    "query_used": "ingu"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Indian medicinal plant": "Embelia ribes",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY000678",
+    "Phytochemical name": "Rapanone",
+    "References": "ISBN:9780387706375",
+    "query_used": "vidang"
+  },
+  {
+    "Indian medicinal plant": "Embelia ribes",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY000773",
+    "Phytochemical name": "1,4-Benzoquinone",
+    "References": "ISBN:9788190115131, The Unani Pharmacopoeia of India Part-1 Volume-1",
+    "query_used": "vidang"
+  },
+  {
+    "Indian medicinal plant": "Embelia ribes",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003041",
+    "Phytochemical name": "Vilangin",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788185042053, ISBN:9788185042145, ISBN:9788190648912",
+    "query_used": "vidang"
+  },
+  {
+    "Indian medicinal plant": "Embelia ribes",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003508",
+    "Phytochemical name": "Embelin",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788171360536, ISBN:9788172360481, ISBN:9788190648912",
+    "query_used": "vidang"
+  },
+  {
+    "Indian medicinal plant": "Embelia ribes",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011805",
+    "Phytochemical name": "Quercitol",
+    "References": "ISBN:9788171360536, ISBN:9788190648912",
+    "query_used": "vidang"
+  },
+  {
+    "Indian medicinal plant": "Embelia ribes",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003508",
+    "Phytochemical name": "Embelin",
+    "References": "ISBN:9788172361150",
+    "query_used": "vidang"
+  },
+  {
+    "Indian medicinal plant": "Embelia ribes",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY003148",
+    "Phytochemical name": "2,5-Dihydroxy-3-undecyl-1,4-benzoquinone potassium",
+    "References": "ISBN:9788171360536",
+    "query_used": "vidang"
+  }
+]

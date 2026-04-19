@@ -1,0 +1,1482 @@
+[
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY000239",
+    "Phytochemical name": "Eugenin",
+    "References": "ISBN:9780387706375",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY001947",
+    "Phytochemical name": "(3S)-O-(N-Methoxy-N-D-glucosylglycyl)betulinic acid",
+    "References": "ISBN:9788172361150",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788185042084, ISBN:9789327275590, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042084, ISBN:9789327275590, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY005471",
+    "Phytochemical name": "Myricetin",
+    "References": "ISBN:9788172361150",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY005537",
+    "Phytochemical name": "Ellagic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY009606",
+    "Phytochemical name": "Ethyl gallate",
+    "References": "ISBN:9780387706375, ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011359",
+    "Phytochemical name": "1-(2-Hydroxy-4,6-dimethoxy-3-methylphenyl)ethan-1-one",
+    "References": "Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011363",
+    "Phytochemical name": "2',6'-Dihydroxy-4'-methoxyacetophenone",
+    "References": "Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011607",
+    "Phytochemical name": "Bergenin",
+    "References": "ISBN:9780387706375, ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011688",
+    "Phytochemical name": "Friedelin",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788185042084, ISBN:9789327275590, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011819",
+    "Phytochemical name": "Friedelanol",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788185042084, ISBN:9789327275590, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011859",
+    "Phytochemical name": "Epifriedelanol",
+    "References": "ISBN:9780387706375",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012003",
+    "Phytochemical name": "Betulinic acid",
+    "References": "ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042084, ISBN:9789327275590, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012021",
+    "Phytochemical name": "Gallic acid",
+    "References": "ISBN:9788171360536, ISBN:9788172363093, ISBN:9789327275590",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012053",
+    "Phytochemical name": "Sucrose",
+    "References": "ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014824",
+    "Phytochemical name": "Astragalin",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788185042084, ISBN:9789327275590, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042084, ISBN:9789327275590, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY015071",
+    "Phytochemical name": "stigmast-5-en-3beta-yl beta-D-glucopyranoside",
+    "References": "ISBN:9788171360536, ISBN:9788185042084, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9788171360536, ISBN:9788185042053",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788185042053",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY005438",
+    "Phytochemical name": "Dihydromyricetin",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY005471",
+    "Phytochemical name": "Myricetin",
+    "References": "ISBN:9788185042053",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY005537",
+    "Phytochemical name": "Ellagic acid",
+    "References": "ISBN:9788171360536, ISBN:9788185042053",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9789327275590",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011970",
+    "Phytochemical name": "Maslinic acid",
+    "References": "ISBN:9770976605004, ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012721",
+    "Phytochemical name": "Isoquercitrin",
+    "References": "ISBN:9788171360536, ISBN:9788185042053",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012958",
+    "Phytochemical name": "3-O-Acetyloleanolic acid",
+    "References": "ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042053",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY000919",
+    "Phytochemical name": "Malvidin 3-laminaribioside",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY001031",
+    "Phytochemical name": "Delphinidin 3-gentiobioside",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY001032",
+    "Phytochemical name": "Petunidin 3-gentiobioside",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY002588",
+    "Phytochemical name": "Flavylium",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003500",
+    "Phytochemical name": "Citric acid",
+    "References": "ISBN:9789327275590",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY004067",
+    "Phytochemical name": "Dihydrocarvyl acetate",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY004438",
+    "Phytochemical name": "Geranyl butyrate",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007367",
+    "Phytochemical name": "Widdrol",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY007450",
+    "Phytochemical name": "Oxalic acid",
+    "References": "ISBN:9780387706375, ISBN:9788171360536",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY009467",
+    "Phytochemical name": "gamma-Decalactone",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011396",
+    "Phytochemical name": "4-Carvomenthenol",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011599",
+    "Phytochemical name": "Terpinolene",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011657",
+    "Phytochemical name": "cis-beta-Farnesene",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9788171360536, ISBN:9788172361150",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012021",
+    "Phytochemical name": "Gallic acid",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l, ISBN:9788171360536, ISBN:9788185042114",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l, ISBN:9788171360536, ISBN:9788185042114",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012160",
+    "Phytochemical name": "alpha-Terpineol",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012585",
+    "Phytochemical name": "delta-Cadinol",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012739",
+    "Phytochemical name": "(Z)-beta-Ocimene",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014690",
+    "Phytochemical name": "(-)-Globulol",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014835",
+    "Phytochemical name": "(E)-beta-ocimene",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014847",
+    "Phytochemical name": "Bornyl acetate",
+    "References": "ISBN:9788171360536, ISBN:9788185042114",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014871",
+    "Phytochemical name": "cis-Nerolidol",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014907",
+    "Phytochemical name": "6-Epi-beta-bisabolol",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014986",
+    "Phytochemical name": "Ledol",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY016898",
+    "Phytochemical name": "cis-Dihydrocarvone",
+    "References": "DOI:10.1002/1099-1026(200101/02)16:1<47::aid-ffj944>3.0.co;2-l",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000545",
+    "Phytochemical name": "O-Cymene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000711",
+    "Phytochemical name": "Bornylene",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY001896",
+    "Phytochemical name": "Heptacosane",
+    "References": "ISBN:9788171360536, ISBN:9788185042084, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003482",
+    "Phytochemical name": "4-Methoxybenzaldehyde",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003536",
+    "Phytochemical name": "Eugenol",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003545",
+    "Phytochemical name": "4-Isopropylbenzaldehyde",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003982",
+    "Phytochemical name": "gamma-Terpinene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004549",
+    "Phytochemical name": "Safrole",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005438",
+    "Phytochemical name": "Dihydromyricetin",
+    "References": "ISBN:9788185042145",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006972",
+    "Phytochemical name": "1-Octacosanol",
+    "References": "ISBN:9788171360536, ISBN:9788185042084, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007214",
+    "Phytochemical name": "Octyl acetate",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007276",
+    "Phytochemical name": "Nonan-1-ol",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008910",
+    "Phytochemical name": "Hentriacontane",
+    "References": "ISBN:9788171360536, ISBN:9788185042084, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009413",
+    "Phytochemical name": "Triacontane",
+    "References": "ISBN:9788171360536, ISBN:9788185042084, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009482",
+    "Phytochemical name": "Nonacosane",
+    "References": "ISBN:9788171360536, ISBN:9788185042084, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010072",
+    "Phytochemical name": "Eucalyptol",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY010781",
+    "Phytochemical name": "Limonene oxide, cis-(-)-",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011359",
+    "Phytochemical name": "1-(2-Hydroxy-4,6-dimethoxy-3-methylphenyl)ethan-1-one",
+    "References": "Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011363",
+    "Phytochemical name": "2',6'-Dihydroxy-4'-methoxyacetophenone",
+    "References": "Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011396",
+    "Phytochemical name": "4-Carvomenthenol",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011552",
+    "Phytochemical name": "(1R)-2-methyl-5-propan-2-ylbicyclo[3.1.0]hex-2-ene",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011586",
+    "Phytochemical name": "(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011590",
+    "Phytochemical name": "d-Borneol",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011599",
+    "Phytochemical name": "Terpinolene",
+    "References": "DOI:10.1080/0972060x.2014.935020, ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011647",
+    "Phytochemical name": "Geranyl acetate",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011648",
+    "Phytochemical name": "Neryl acetate",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011714",
+    "Phytochemical name": "Methyl cinnamate",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011745",
+    "Phytochemical name": "Zingiberene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011789",
+    "Phytochemical name": "Citral",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011965",
+    "Phytochemical name": "(+)-beta-Phellandrene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011970",
+    "Phytochemical name": "Maslinic acid",
+    "References": "ISBN:9788171360536, ISBN:9788185042084, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012003",
+    "Phytochemical name": "Betulinic acid",
+    "References": "ISBN:9788171360536, ISBN:9788185042084, Standardization of Single Drugs of Unani Medicine Part - V",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012058",
+    "Phytochemical name": "Linalool",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1080/0972060x.2014.935020, ISBN:9788171360536, ISBN:9788172363093, ISBN:9788185042114",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1080/0972060x.2014.935020, ISBN:9788171360536, ISBN:9788172363093, ISBN:9788185042114",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012160",
+    "Phytochemical name": "alpha-Terpineol",
+    "References": "DOI:10.1080/0972060x.2014.935020, ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012175",
+    "Phytochemical name": "D-Limonene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012667",
+    "Phytochemical name": "Caryophyllene oxide",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012739",
+    "Phytochemical name": "(Z)-beta-Ocimene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012921",
+    "Phytochemical name": "gamma-Elemene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014811",
+    "Phytochemical name": "alpha-Phellandrene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014831",
+    "Phytochemical name": "beta-Caryophyllene",
+    "References": "DOI:10.1080/0972060x.2014.935020, ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014835",
+    "Phytochemical name": "(E)-beta-ocimene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788172361150",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014847",
+    "Phytochemical name": "Bornyl acetate",
+    "References": "DOI:10.1080/0972060x.2014.935020, ISBN:9788171360536, ISBN:9788185042114",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014852",
+    "Phytochemical name": "Camphene",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014857",
+    "Phytochemical name": "Cedrol",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014923",
+    "Phytochemical name": "Geraniol",
+    "References": "DOI:10.1080/0972060x.2014.935020",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015042",
+    "Phytochemical name": "Piperitone",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788172361150",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005471",
+    "Phytochemical name": "Myricetin",
+    "References": "ISBN:9788172361150",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011851",
+    "Phytochemical name": "Myricetin 3-O-glucoside",
+    "References": "ISBN:9788172363093, ISBN:9788185042145",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012721",
+    "Phytochemical name": "Isoquercitrin",
+    "References": "ISBN:9788172361150",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY012868",
+    "Phytochemical name": "Narcissin",
+    "References": "ISBN:9788172361150, ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000060",
+    "Phytochemical name": "Myristic acid",
+    "References": "ISBN:9788172363093, ISBN:9788185042138",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000761",
+    "Phytochemical name": "Pinoresinol 4-O-beta-D-glucopyranoside",
+    "References": "ISBN:9788171360536",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000896",
+    "Phytochemical name": "2,3-(S)-hexahydroxydiphenoyl-D-glucose",
+    "References": "ISBN:9788171360536, ISBN:9788172361150",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY001097",
+    "Phytochemical name": "Malvalic acid",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY001816",
+    "Phytochemical name": "gamma-Terpineol",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002419",
+    "Phytochemical name": "Ellagitannin",
+    "References": "ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003007",
+    "Phytochemical name": "Dihydrodehydrodiconiferyl alcohol",
+    "References": "ISBN:9788171360536",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003016",
+    "Phytochemical name": "Lauric acid",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003174",
+    "Phytochemical name": "5-Hydroxymethylfurfural",
+    "References": "ISBN:9788171360536",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003485",
+    "Phytochemical name": "Myrcene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003719",
+    "Phytochemical name": "beta-Copaene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003956",
+    "Phytochemical name": "(+)-gamma-Gurjunene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004281",
+    "Phytochemical name": "Guaiol",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004631",
+    "Phytochemical name": "Stearic acid",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004665",
+    "Phytochemical name": "Resorcinol",
+    "References": "ISBN:9788171360536",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY005537",
+    "Phytochemical name": "Ellagic acid",
+    "References": "ISBN:9780387706375, ISBN:9781514271186, ISBN:9788171360536, ISBN:9788172361266, ISBN:9788185042084, The Unani Pharmacopoeia of India Part-1 Volume-4",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006026",
+    "Phytochemical name": "4-Methylbenzaldehyde",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006145",
+    "Phytochemical name": "p-Cymene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006558",
+    "Phytochemical name": "1-Triacontanol",
+    "References": "ISBN:9780387706375",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006574",
+    "Phytochemical name": "Ethyl benzoate",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006840",
+    "Phytochemical name": "1,2-Dimethoxybenzene",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007327",
+    "Phytochemical name": "Palmitic acid",
+    "References": "ISBN:9788172363093, ISBN:9788185042138",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007419",
+    "Phytochemical name": "1,3-Dimethoxybenzene",
+    "References": "ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY009211",
+    "Phytochemical name": "2-((3,3-Dimethyloxiran-2-yl)methyl)-3-methylfuran",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY009570",
+    "Phytochemical name": "Sterculic acid",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY009770",
+    "Phytochemical name": "Caryophyllenyl alcohol",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY009871",
+    "Phytochemical name": "Isoterpinolene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY009966",
+    "Phytochemical name": "Eucarvone",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY010965",
+    "Phytochemical name": "Corilagin",
+    "References": "ISBN:9770976605004, ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011359",
+    "Phytochemical name": "1-(2-Hydroxy-4,6-dimethoxy-3-methylphenyl)ethan-1-one",
+    "References": "ISBN:9788171360536",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011409",
+    "Phytochemical name": "Guaiacol",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011581",
+    "Phytochemical name": "alpha-Selinene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011586",
+    "Phytochemical name": "(S,1Z,6Z)-8-Isopropyl-1-methyl-5-methylenecyclodeca-1,6-diene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011659",
+    "Phytochemical name": "alpha-Muurolene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011660",
+    "Phytochemical name": "(+)-alpha-Cadinene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011724",
+    "Phytochemical name": "(9Z)-(12S,13R)-12,13-Epoxyoctadecenoic acid",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011741",
+    "Phytochemical name": "Tannic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011749",
+    "Phytochemical name": "Humulene epoxide II",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011761",
+    "Phytochemical name": "Humulene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011793",
+    "Phytochemical name": "(+)-gamma-Cadinene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011797",
+    "Phytochemical name": "Oleic acid",
+    "References": "ISBN:9788172363093",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011802",
+    "Phytochemical name": "Ferulic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011933",
+    "Phytochemical name": "Caffeic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011957",
+    "Phytochemical name": "(+)-delta-Cadinene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011970",
+    "Phytochemical name": "Maslinic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012003",
+    "Phytochemical name": "Betulinic acid",
+    "References": "ISBN:9780387706375",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012021",
+    "Phytochemical name": "Gallic acid",
+    "References": "ISBN:9781514271186, ISBN:9788171360536, ISBN:9788185042084, The Unani Pharmacopoeia of India Part-1 Volume-4",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012088",
+    "Phytochemical name": "Mesitylene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012667",
+    "Phytochemical name": "Caryophyllene oxide",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY013080",
+    "Phytochemical name": "alpha-Calacorene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY013574",
+    "Phytochemical name": "14-Hydroxy-9-epi-(E)-caryophyllene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY013971",
+    "Phytochemical name": "epi-Cubenol",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014690",
+    "Phytochemical name": "(-)-Globulol",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014785",
+    "Phytochemical name": "(E)-2-epi-beta-caryophyllene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014817",
+    "Phytochemical name": "Aromadendrene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014852",
+    "Phytochemical name": "Camphene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014988",
+    "Phytochemical name": "Limonene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014990",
+    "Phytochemical name": "Linoleic acid",
+    "References": "ISBN:9788172363093, ISBN:9788185042138",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY015016",
+    "Phytochemical name": "alpha-Muurolol",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY015123",
+    "Phytochemical name": "alpha-Copaene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY015168",
+    "Phytochemical name": "14-Hydroxy-alpha-humulene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY016012",
+    "Phytochemical name": "Allo-Aromadendrene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY017920",
+    "Phytochemical name": "14-Hydroxy-z-caryophyllene",
+    "References": "DOI:10.1080/0972060x.2016.1232608",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY012061",
+    "Phytochemical name": "alpha-Pinene",
+    "References": "ISBN:9788171360536, ISBN:9788185042114",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY012147",
+    "Phytochemical name": "beta-Pinene",
+    "References": "ISBN:9788171360536, ISBN:9788185042114",
+    "query_used": "syzygium cumini"
+  },
+  {
+    "Indian medicinal plant": "Syzygium cumini",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY014847",
+    "Phytochemical name": "Bornyl acetate",
+    "References": "ISBN:9788171360536, ISBN:9788185042114",
+    "query_used": "syzygium cumini"
+  }
+]

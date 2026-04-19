@@ -1,0 +1,138 @@
+[
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY000917",
+    "Phytochemical name": "Hippeastrine",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY004250",
+    "Phytochemical name": "Galantamine",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY010142",
+    "Phytochemical name": "Hemanthidine",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY010955",
+    "Phytochemical name": "(13S,16S,18S)-18-methoxy-15-methyl-5,7,12-trioxa-15-azapentacyclo[11.7.0.01,16.02,10.04,8]icosa-2,4(8),9,19-tetraen-13-ol",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY000917",
+    "Phytochemical name": "Hippeastrine",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY003832",
+    "Phytochemical name": "Lycorine",
+    "References": "ISBN:9788172360481",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY004250",
+    "Phytochemical name": "Galantamine",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY007189",
+    "Phytochemical name": "Narciclasine",
+    "References": "ISBN:9788172362300",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY010142",
+    "Phytochemical name": "Hemanthidine",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY010955",
+    "Phytochemical name": "(13S,16S,18S)-18-methoxy-15-methyl-5,7,12-trioxa-15-azapentacyclo[11.7.0.01,16.02,10.04,8]icosa-2,4(8),9,19-tetraen-13-ol",
+    "References": "ISBN:9788172360481, ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY010993",
+    "Phytochemical name": "Pancratistatin",
+    "References": "ISBN:9788172362300, ISBN:9788185042145",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY013825",
+    "Phytochemical name": "Lycoricidine",
+    "References": "ISBN:9788172362300",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000917",
+    "Phytochemical name": "Hippeastrine",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004250",
+    "Phytochemical name": "Galantamine",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010142",
+    "Phytochemical name": "Hemanthidine",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Hymenocallis littoralis",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY010955",
+    "Phytochemical name": "(13S,16S,18S)-18-methoxy-15-methyl-5,7,12-trioxa-15-azapentacyclo[11.7.0.01,16.02,10.04,8]icosa-2,4(8),9,19-tetraen-13-ol",
+    "References": "ISBN:9788185042114",
+    "query_used": "itti"
+  },
+  {
+    "Indian medicinal plant": "Sagittaria sagittifolia",
+    "Plant part": "bulb",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9788172363093",
+    "query_used": "itti"
+  }
+]

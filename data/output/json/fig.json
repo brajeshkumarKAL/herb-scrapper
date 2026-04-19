@@ -1,0 +1,538 @@
+[
+  {
+    "Indian medicinal plant": "Ficus benjamina",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY005428",
+    "Phytochemical name": "Bergapten",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172360481",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus benjamina",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011688",
+    "Phytochemical name": "Friedelin",
+    "References": "ISBN:9770972795006",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus benjamina",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus benjamina",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY005428",
+    "Phytochemical name": "Bergapten",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus benjamina",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY008913",
+    "Phytochemical name": "Imperatorin",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus benjamina",
+    "Plant part": "plant exudate",
+    "IMPPAT Phytochemical identifier": "IMPHY011619",
+    "Phytochemical name": "alpha-Amyrin",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY002928",
+    "Phytochemical name": "Guaiol acetate",
+    "References": "ISBN:9780387706375",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003092",
+    "Phytochemical name": "Triacontyl acetate",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9788185042114, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004039",
+    "Phytochemical name": "beta-Amyrin acetate",
+    "References": "ISBN:9788171360536, ISBN:9788185042114",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004799",
+    "Phytochemical name": "Chebulagic acid",
+    "References": "The Unani Pharmacopoeia of India Part-1 Volume-6",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY005428",
+    "Phytochemical name": "Bergapten",
+    "References": "ISBN:9780387706375",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006350",
+    "Phytochemical name": "Psoralen",
+    "References": "ISBN:9780387706375",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006376",
+    "Phytochemical name": "Hispidin",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY010827",
+    "Phytochemical name": "Chebulinic acid",
+    "References": "The Unani Pharmacopoeia of India Part-1 Volume-6",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375, ISBN:9788171360536, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014991",
+    "Phytochemical name": "Lupeol acetate",
+    "References": "ISBN:9788171360536",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY002928",
+    "Phytochemical name": "Guaiol acetate",
+    "References": "ISBN:9780387706375",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY003092",
+    "Phytochemical name": "Triacontyl acetate",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY005428",
+    "Phytochemical name": "Bergapten",
+    "References": "ISBN:9780387706375",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006350",
+    "Phytochemical name": "Psoralen",
+    "References": "ISBN:9780387706375",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006362",
+    "Phytochemical name": "Ascorbic acid",
+    "References": "ISBN:9770972795006",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006376",
+    "Phytochemical name": "Hispidin",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011609",
+    "Phytochemical name": "alpha-Carotene",
+    "References": "ISBN:9770972795006",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005428",
+    "Phytochemical name": "Bergapten",
+    "References": "ISBN:9788171360536, ISBN:9788172360481, ISBN:9788172362300",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006350",
+    "Phytochemical name": "Psoralen",
+    "References": "ISBN:9788172360481, ISBN:9788172362300",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172362300, ISBN:9788185042145, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9788171360536, ISBN:9788172360481, ISBN:9788172362300",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788172360481, ISBN:9788172362300",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002928",
+    "Phytochemical name": "Guaiol acetate",
+    "References": "ISBN:9780387706375",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003092",
+    "Phytochemical name": "Triacontyl acetate",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY005428",
+    "Phytochemical name": "Bergapten",
+    "References": "ISBN:9780387706375",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006350",
+    "Phytochemical name": "Psoralen",
+    "References": "ISBN:9780387706375",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006376",
+    "Phytochemical name": "Hispidin",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY012223",
+    "Phytochemical name": "beta-Amyrin",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9780387706375, ISBN:9789327275590",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY001859",
+    "Phytochemical name": "Dehydrotylophorine",
+    "References": "ISBN:9788171360536",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY002928",
+    "Phytochemical name": "Guaiol acetate",
+    "References": "ISBN:9788171360536",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus hispida",
+    "Plant part": "whole plant",
+    "IMPPAT Phytochemical identifier": "IMPHY006350",
+    "Phytochemical name": "Psoralen",
+    "References": "ISBN:9788171360536",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus microcarpa",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY006612",
+    "Phytochemical name": "Corosolic acid",
+    "References": "ISBN:9770976605004",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus microcarpa",
+    "Plant part": "fruit",
+    "IMPPAT Phytochemical identifier": "IMPHY011970",
+    "Phytochemical name": "Maslinic acid",
+    "References": "ISBN:9770976605004",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus microcarpa",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011677",
+    "Phytochemical name": "Taraxerol",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus microcarpa",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011688",
+    "Phytochemical name": "Friedelin",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus microcarpa",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus microcarpa",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011859",
+    "Phytochemical name": "Epifriedelanol",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus microcarpa",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011978",
+    "Phytochemical name": "Glutinol",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus microcarpa",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014991",
+    "Phytochemical name": "Lupeol acetate",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus palmata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005428",
+    "Phytochemical name": "Bergapten",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172360481, ISBN:9788185042084",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus palmata",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9780387706375, ISBN:9788172360481, ISBN:9788185042084",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus pumila",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY006612",
+    "Phytochemical name": "Corosolic acid",
+    "References": "ISBN:9770976605004",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus rumphii",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9770972795006, ISBN:9788172360481, ISBN:9788172363130, ISBN:9788185042084",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus sarmentosa",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008742",
+    "Phytochemical name": "Rhoiptelenol",
+    "References": "ISBN:9788185042145",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus sarmentosa",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY008742",
+    "Phytochemical name": "Rhoiptelenol",
+    "References": "ISBN:9788185042145",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus virens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY004445",
+    "Phytochemical name": "Methyl ricinoleate",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus virens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011607",
+    "Phytochemical name": "Bergenin",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus virens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011857",
+    "Phytochemical name": "Lanosterol",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus virens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY011933",
+    "Phytochemical name": "Caffeic acid",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Ficus virens",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042138",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Neopicrorhiza scrophulariiflora",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY005350",
+    "Phytochemical name": "Androsin",
+    "References": "ISBN:9780387706375, ISBN:9788172362461",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Neopicrorhiza scrophulariiflora",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011496",
+    "Phytochemical name": "Catalpol",
+    "References": "ISBN:9780387706375, ISBN:9788172362461",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Neopicrorhiza scrophulariiflora",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011516",
+    "Phytochemical name": "Aucubin",
+    "References": "ISBN:9780387706375, ISBN:9788172362461",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Neopicrorhiza scrophulariiflora",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011603",
+    "Phytochemical name": "Picroside II",
+    "References": "ISBN:9780387706375, ISBN:9788172362461",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Neopicrorhiza scrophulariiflora",
+    "Plant part": "underground part",
+    "IMPPAT Phytochemical identifier": "IMPHY011603",
+    "Phytochemical name": "Picroside II",
+    "References": "ISBN:9770976605004",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Scrophularia koelzii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY002684",
+    "Phytochemical name": "Z-harpagoside",
+    "References": "ISBN:9788172363093",
+    "query_used": "fig"
+  },
+  {
+    "Indian medicinal plant": "Scrophularia koelzii",
+    "Plant part": "aerial part",
+    "IMPPAT Phytochemical identifier": "IMPHY006402",
+    "Phytochemical name": "Koelzioside",
+    "References": "ISBN:9788172363093",
+    "query_used": "fig"
+  }
+]

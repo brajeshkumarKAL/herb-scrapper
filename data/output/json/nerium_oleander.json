@@ -1,0 +1,794 @@
+[
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003411",
+    "Phytochemical name": "Scopolin",
+    "References": "ISBN:9788172361150",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY003634",
+    "Phytochemical name": "Oleandrin",
+    "References": "ISBN:9788172361266, ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY006170",
+    "Phytochemical name": "Barban",
+    "References": "ISBN:9788172361266",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "bark",
+    "IMPPAT Phytochemical identifier": "IMPHY007300",
+    "Phytochemical name": "Pregnenolone",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY002915",
+    "Phytochemical name": "Benzyl Alcohol",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY003634",
+    "Phytochemical name": "Oleandrin",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY004619",
+    "Phytochemical name": "Quercetin",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY006279",
+    "Phytochemical name": "2-Phenylethanol",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011715",
+    "Phytochemical name": "Odoroside A",
+    "References": "ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY011880",
+    "Phytochemical name": "Ursolic acid",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY012402",
+    "Phytochemical name": "Campesterol",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014824",
+    "Phytochemical name": "Astragalin",
+    "References": "ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY014925",
+    "Phytochemical name": "beta-D-Glucose",
+    "References": "ISBN:9788172361150",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY015047",
+    "Phytochemical name": "Rutin",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "flower",
+    "IMPPAT Phytochemical identifier": "IMPHY015054",
+    "Phytochemical name": "Quercitrin",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000269",
+    "Phytochemical name": "Oleagenin",
+    "References": "ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY000953",
+    "Phytochemical name": "Adynerin",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY002330",
+    "Phytochemical name": "16-Dehydroadynerigenin-beta-d-diginoside",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY002707",
+    "Phytochemical name": "Neriaside",
+    "References": "ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003634",
+    "Phytochemical name": "Oleandrin",
+    "References": "ISBN:9780387706375, ISBN:9788172361266, ISBN:9788185042053, ISBN:9788190115131, The Unani Pharmacopoeia of India Part-1 Volume-1",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY003770",
+    "Phytochemical name": "Digitoxigenin",
+    "References": "ISBN:9788172362461",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004044",
+    "Phytochemical name": "Odoroside K",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004187",
+    "Phytochemical name": "L-(+)-Arabinose",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY004271",
+    "Phytochemical name": "Betulin",
+    "References": "ISBN:9788185042138",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY005174",
+    "Phytochemical name": "Dambonitol",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY007502",
+    "Phytochemical name": "Oleandrigenin",
+    "References": "ISBN:9788172362461",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008362",
+    "Phytochemical name": "Kaneric acid",
+    "References": "ISBN:9788185042138",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY008577",
+    "Phytochemical name": "Neriantin",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY009450",
+    "Phytochemical name": "Oleanderol",
+    "References": "ISBN:9788185042138",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011000",
+    "Phytochemical name": "Urs-12(13)-ene",
+    "References": "ISBN:9788185042138",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011368",
+    "Phytochemical name": "Desacetyloleandrin",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011417",
+    "Phytochemical name": "Urechitoxin",
+    "References": "ISBN:9788185042053, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011535",
+    "Phytochemical name": "Isoneriucoumaric acid",
+    "References": "ISBN:9788185042138",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011634",
+    "Phytochemical name": "Bicuculline",
+    "References": "ISBN:9788185042145",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9788185042084, ISBN:9788185042138",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY011880",
+    "Phytochemical name": "Ursolic acid",
+    "References": "ISBN:9788172361150, ISBN:9788185042084, ISBN:9788185042138",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012003",
+    "Phytochemical name": "Betulinic acid",
+    "References": "ISBN:9788185042138",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012044",
+    "Phytochemical name": "Oxotremorine",
+    "References": "ISBN:9788185042145",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012050",
+    "Phytochemical name": "D-Galactose",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY012721",
+    "Phytochemical name": "Isoquercitrin",
+    "References": "ISBN:9788185042114",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY013489",
+    "Phytochemical name": "Methyl 8,16-dihydroxyhexadecanoate",
+    "References": "ISBN:9788185042138",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY013587",
+    "Phytochemical name": "Adynerigenin beta-neritrioside",
+    "References": "ISBN:9788185042145",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014048",
+    "Phytochemical name": "C15H18O7.C15H16O6",
+    "References": "ISBN:9788185042145",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014335",
+    "Phytochemical name": "Adynerigenine",
+    "References": "ISBN:9788172362461",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014578",
+    "Phytochemical name": "Adynerigenin beta-odorotrioside",
+    "References": "ISBN:9788185042145",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014735",
+    "Phytochemical name": "Neritaloside",
+    "References": "ISBN:9788185042053, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY014919",
+    "Phytochemical name": "D-Galacturonic Acid",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015028",
+    "Phytochemical name": "Solanoside",
+    "References": "ISBN:9780387706375",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015047",
+    "Phytochemical name": "Rutin",
+    "References": "ISBN:9788172361150",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015054",
+    "Phytochemical name": "Quercitrin",
+    "References": "ISBN:9788185042114",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "leaf",
+    "IMPPAT Phytochemical identifier": "IMPHY015056",
+    "Phytochemical name": "L-Rhamnose",
+    "References": "ISBN:9780387706375, ISBN:9788185042145",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000566",
+    "Phytochemical name": "Neridienone A",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000687",
+    "Phytochemical name": "Syringic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY000835",
+    "Phytochemical name": "Neridienone B",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY001171",
+    "Phytochemical name": "6-Dehydroprogesterone",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY002707",
+    "Phytochemical name": "Neriaside",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003634",
+    "Phytochemical name": "Oleandrin",
+    "References": "ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY003884",
+    "Phytochemical name": "Plumericin",
+    "References": "ISBN:9788171360536, ISBN:9788172361150",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006148",
+    "Phytochemical name": "4-Hydroxyacetophenone",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006170",
+    "Phytochemical name": "Barban",
+    "References": "ISBN:9788171360536, ISBN:9788172361266",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY006552",
+    "Phytochemical name": "2',4'-Dihydroxyacetophenone",
+    "References": "ISBN:9788171360536, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY007084",
+    "Phytochemical name": "Vanillic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011523",
+    "Phytochemical name": "Salicylic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011619",
+    "Phytochemical name": "alpha-Amyrin",
+    "References": "ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011644",
+    "Phytochemical name": "Odorosid B",
+    "References": "ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011715",
+    "Phytochemical name": "Odoroside A",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011802",
+    "Phytochemical name": "Ferulic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "root",
+    "IMPPAT Phytochemical identifier": "IMPHY014991",
+    "Phytochemical name": "Lupeol acetate",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000566",
+    "Phytochemical name": "Neridienone A",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000687",
+    "Phytochemical name": "Syringic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY000835",
+    "Phytochemical name": "Neridienone B",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY001171",
+    "Phytochemical name": "6-Dehydroprogesterone",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY002707",
+    "Phytochemical name": "Neriaside",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003245",
+    "Phytochemical name": "Gitoxigenin",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003770",
+    "Phytochemical name": "Digitoxigenin",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY003792",
+    "Phytochemical name": "3-[(3S,5R,8R,9S,10S,13R,14S,17S)-3-[(2R,4S,5S,6R)-5-[(2S,4S,5S,6R)-5-[(2S,4S,5S,6R)-4,5-dihydroxy-6-methyloxan-2-yl]oxy-4-hydroxy-6-methyloxan-2-yl]oxy-4-hydroxy-6-methyloxan-2-yl]oxy-14-hydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahyd",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004166",
+    "Phytochemical name": "Strospeside",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY004388",
+    "Phytochemical name": "Kaempferol",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006148",
+    "Phytochemical name": "4-Hydroxyacetophenone",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006170",
+    "Phytochemical name": "Barban",
+    "References": "ISBN:9788171360536, ISBN:9788172361266",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY006552",
+    "Phytochemical name": "2',4'-Dihydroxyacetophenone",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY007084",
+    "Phytochemical name": "Vanillic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY010069",
+    "Phytochemical name": "[(3S,5R,8R,9S,10S,13R,14S,16S,17R)-14-hydroxy-3-[(2R,4R,5S,6R)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy-10,13-dimethyl-17-(5-oxo-2H-furan-3-yl)-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-16-yl] 3-methylbutanoate",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011523",
+    "Phytochemical name": "Salicylic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011619",
+    "Phytochemical name": "alpha-Amyrin",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011644",
+    "Phytochemical name": "Odorosid B",
+    "References": "ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011715",
+    "Phytochemical name": "Odoroside A",
+    "References": "ISBN:9788171360536, ISBN:9788185042053",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011802",
+    "Phytochemical name": "Ferulic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY011826",
+    "Phytochemical name": "Oleanolic acid",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014836",
+    "Phytochemical name": "beta-Sitosterol",
+    "References": "ISBN:9788171360536",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "seed",
+    "IMPPAT Phytochemical identifier": "IMPHY014842",
+    "Phytochemical name": "Stigmasterol",
+    "References": "ISBN:9788172361150",
+    "query_used": "nerium oleander"
+  },
+  {
+    "Indian medicinal plant": "Nerium oleander",
+    "Plant part": "stem",
+    "IMPPAT Phytochemical identifier": "IMPHY005174",
+    "Phytochemical name": "Dambonitol",
+    "References": "ISBN:9788171360536, ISBN:9788172361150, ISBN:9788185042084",
+    "query_used": "nerium oleander"
+  }
+]
